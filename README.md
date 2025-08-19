@@ -1,11 +1,7 @@
 # 🚦 AI-powered Question Answering for Vietnamese Traffic Law Consultation
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)  
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?logo=pytorch)  
-![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)  
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-![Status](https://img.shields.io/badge/Status-Research--Capstone-success)  
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)  ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?logo=pytorch) ![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Status](https://img.shields.io/badge/Status-Research--Capstone-success)  
 
 
 This project develops an **AI-powered chatbot** that provides **legal consultation on Vietnamese traffic laws** using advanced Natural Language Processing (NLP).  
