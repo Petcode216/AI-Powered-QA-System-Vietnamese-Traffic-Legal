@@ -1,0 +1,1934 @@
+[
+    {
+      "input": "Câu hỏi: Nếu tôi không đội mũ bảo hiểm khi đi xe máy, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không đội mũ bảo hiểm hoặc đội không đúng cách.",
+      "target": "Nếu bạn không đội mũ bảo hiểm khi đi xe máy, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu vượt đèn đỏ không?\nLuật: Điều 7, Khoản 7, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+      "target": "Có, bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu vượt đèn đỏ."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép quay đầu xe tại ngã tư?\nLuật: Điều 15, Khoản 4, Trafic.docx: Không được quay đầu xe tại nơi đường giao nhau, trừ khi có biển báo cho phép.",
+      "target": "Bạn chỉ được phép quay đầu xe tại ngã tư khi có biển báo cho phép."
+    },
+    {
+      "input": "Câu hỏi: Không thắt dây an toàn khi lái xe ô tô có vi phạm luật không?\nLuật: Điều 6, Khoản 3, Điểm k, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe không thắt dây an toàn.",
+      "target": "Có, không thắt dây an toàn khi lái xe ô tô là vi phạm luật và bạn sẽ bị phạt từ 800.000 đến 1.000.000 đồng."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác viền đỏ dùng để làm gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo tam giác viền đỏ là biển báo nguy hiểm, cảnh báo các tình huống nguy hiểm có thể xảy ra.",
+      "target": "Biển báo hình tam giác viền đỏ dùng để cảnh báo các tình huống nguy hiểm có thể xảy ra."
+    },
+    {
+      "input": "Câu hỏi: Khi đèn vàng bật sáng, tôi cần làm gì?\nLuật: Điều 11, Khoản 4, Trafic.docx: Khi đèn vàng sáng, người điều khiển phương tiện phải giảm tốc độ và chuẩn bị dừng lại trước vạch dừng, trừ khi đã đi quá vạch dừng.",
+      "target": "Khi đèn vàng bật sáng, bạn cần giảm tốc độ và chuẩn bị dừng lại trước vạch dừng, trừ khi đã đi quá vạch dừng."
+    },
+    {
+      "input": "Câu hỏi: Xe máy có cần kiểm tra định kỳ không?\nLuật: Điều 16, Khoản 1, Trafic.docx: Xe máy phải được kiểm tra định kỳ về an toàn kỹ thuật và bảo vệ môi trường.",
+      "target": "Có, xe máy cần được kiểm tra định kỳ về an toàn kỹ thuật và bảo vệ môi trường."
+    },
+    {
+      "input": "Câu hỏi: Gặp đèn đỏ tại ngã tư, tôi phải làm gì theo luật?\nLuật: Điều 11, Khoản 4, Trafic.docx: Khi đèn đỏ sáng, người điều khiển phương tiện phải dừng lại trước vạch dừng.",
+      "target": "Bạn phải dừng lại trước vạch dừng khi gặp đèn đỏ tại ngã tư."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải bật đèn pha trong những trường hợp nào?\nLuật: Điều 20, Khoản 1, Trafic.docx: Người lái xe phải bật đèn pha trong thời gian từ 18 giờ đến 6 giờ sáng hoặc khi có sương mù, khói, bụi, trời mưa.",
+      "target": "Bạn phải bật đèn pha từ 18 giờ đến 6 giờ sáng hoặc khi có sương mù, khói, bụi, trời mưa."
+    },
+    {
+      "input": "Câu hỏi: Điều kiện nào cho phép tôi vượt xe khác?\nLuật: Điều 14, Khoản 3, Trafic.docx: Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác, đã có tín hiệu rẽ phải và tránh về bên phải.",
+      "target": "Bạn được vượt xe khác khi không có chướng ngại vật phía trước, không có xe ngược chiều, xe trước không có tín hiệu vượt, và bạn đã báo hiệu rẽ phải, tránh về bên phải."
+    },
+    {
+      "input": "Câu hỏi: Lái xe ô tô với nồng độ cồn dưới 50mg/100ml máu bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 6, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu.",
+      "target": "Bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu lái xe ô tô với nồng độ cồn dưới 50mg/100ml máu."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy ban đêm không bật đèn có bị phạt không?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng trong thời gian từ 18 giờ đến 06 giờ.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu đi xe máy ban đêm mà không bật đèn."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể dừng xe ở nơi có biển 'Cấm dừng xe' không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe, đỗ xe tại các vị trí có biển 'Cấm dừng xe'.",
+      "target": "Không, bạn không thể dừng xe ở nơi có biển 'Cấm dừng xe'."
+    },
+    {
+      "input": "Câu hỏi: Không mang giấy phép lái xe khi đi xe máy bị phạt bao nhiêu?\nLuật: Điều 21, Khoản 5, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.200.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy phép lái xe.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1,2 triệu đồng nếu không mang giấy phép lái xe khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo tròn viền đỏ có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn viền đỏ là biển báo cấm, biểu thị các điều cấm.",
+      "target": "Biển báo tròn viền đỏ là biển báo cấm, biểu thị các điều không được làm."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể vượt xe khác ở đoạn đường nào?\nLuật: Điều 14, Khoản 3, Trafic.docx: Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác, đã có tín hiệu rẽ phải và tránh về bên phải.",
+      "target": "Bạn chỉ được vượt xe khác khi không có chướng ngại vật, không có xe ngược chiều, xe trước không có tín hiệu vượt, và bạn đã báo hiệu rẽ phải, tránh về bên phải."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không đội mũ bảo hiểm có vi phạm luật không?\nLuật: Điều 7, Khoản 2, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không đội mũ bảo hiểm hoặc đội không đúng cách.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không đội mũ bảo hiểm khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh dùng để làm gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh là biển báo chỉ dẫn, chỉ dẫn hướng đi hoặc các điều cần biết.",
+      "target": "Biển báo hình vuông màu xanh dùng để chỉ dẫn hướng đi hoặc các thông tin cần biết."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp đèn vàng nhấp nháy?\nLuật: Điều 11, Khoản 4, Trafic.docx: Khi gặp đèn vàng nhấp nháy, người điều khiển phương tiện được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ hoặc các phương tiện khác.",
+      "target": "Bạn được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ hoặc các phương tiện khác khi gặp đèn vàng nhấp nháy."
+    },
+    {
+      "input": "Câu hỏi: Không bật đèn khi trời mưa có bị phạt không?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng khi trời mưa làm hạn chế tầm nhìn.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1.000.000 đồng nếu không bật đèn khi trời mưa."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể dừng xe ở lề đường không?\nLuật: Điều 18, Khoản 5, Trafic.docx: Người điều khiển phương tiện chỉ được dừng xe, đỗ xe ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy.",
+      "target": "Có, bạn có thể dừng xe ở lề đường rộng hoặc khu đất bên ngoài phần đường xe chạy."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không mang giấy tờ xe bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 2, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy đăng ký xe.",
+      "target": "Bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu không mang giấy đăng ký xe khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ là biển báo cấm, biểu thị các điều cấm.",
+      "target": "Biển báo hình tròn màu đỏ là biển báo cấm, biểu thị các điều không được làm."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Cấm rẽ trái'?\nLuật: Điều 11, Khoản 5,  Trafic.docx: Biển báo cấm rẽ trái biểu thị người điều khiển phương tiện không được rẽ trái tại khu vực có biển này.",
+      "target": "Bạn không được rẽ trái tại khu vực có biển 'Cấm rẽ trái'."
+    },
+    {
+      "input": "Câu hỏi: Không nhường đường cho xe ưu tiên có bị phạt không?\nLuật: Điều 6, Khoản 6, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe không nhường đường cho xe ưu tiên đang phát tín hiệu ưu tiên.",
+      "target": "Có, bạn sẽ bị phạt từ 6 đến 8letsencrypt.org8 triệu đồng nếu không nhường đường cho xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể vượt xe ở đoạn đường có biển 'Cấm vượt' không?\nLuật: Điều 14, Khoản 6, Trafic.docx: Không được vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt.",
+      "target": "Không, bạn không thể vượt xe ở đoạn đường có biển 'Cấm vượt'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không bật đèn trong hầm có vi phạm luật không?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng trong hầm đường bộ.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không bật đèn trong hầm khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình chữ nhật màu xanh dùng để làm gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình chữ nhật màu xanh là biển báo chỉ dẫn, chỉ dẫn hướng đi hoặc các điều cần biết.",
+      "target": "Biển báo hình chữ nhật màu xanh dùng để chỉ dẫn hướng đi hoặc các thông tin cần biết."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Nhường đường'?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo nhường đường yêu cầu người điều khiển phương tiện phải nhường đường cho các phương tiện khác tại khu vực có biển này.",
+      "target": "Bạn phải nhường đường cho các phương tiện khác tại khu vực có biển 'Nhường đường'."
+    },
+    {
+      "input": "Câu hỏi: Không mang giấy phép lái xe khi lái xe ô tô bị phạt bao nhiêu?\nLuật: Điều 21, Khoản 7, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe ô tô không mang theo Giấy phép lái xe.",
+      "target": "Bạn sẽ bị phạt từ 10 đến 12 triệu đồng nếu không mang giấy phép lái xe khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể dừng xe ở nơi có biển 'Cấm đỗ xe' không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe, đỗ xe tại các vị trí có biển 'Cấm đỗ xe'.",
+      "target": "Không, bạn không thể dừng hoặc đỗ xe ở nơi có biển 'Cấm đỗ xe'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không đội mũ bảo hiểm cho trẻ em có vi phạm luật không?\nLuật: Điều 7, Khoản 2, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe chở trẻ em không đội mũ bảo hiểm.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không đội mũ bảo hiểm cho trẻ em khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh là biển hiệu lệnh, báo hiệu lệnh phải thi hành.",
+      "target": "Biển báo hình tròn màu xanh là biển hiệu lệnh, báo hiệu lệnh phải thi hành."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Tốc độ tối đa 40 km/h'?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo tốc độ tối đa yêu cầu người điều khiển phương tiện không được vượt quá 40 km/h.",
+      "target": "Bạn không được lái xe vượt quá 40 km/h tại khu vực có biển 'Tốc độ tối đa 40 km/h'."
+    },
+    {
+      "input": "Câu hỏi: Không bật đèn khi trời tối có bị phạt không?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng từ 18 giờ đến 6 giờ sáng.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1.000.000 đồng nếu không bật đèn khi trời tối."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi đi xe máy không mang giấy phép lái xe, tôi sẽ bị phạt như thế nào?\nLuật: Điều 21, Khoản 5, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.200.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy phép lái xe.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1,2 triệu đồng nếu đi xe máy không mang giấy phép lái xe."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác viền đỏ có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo tam giác viền đỏ là biển báo nguy hiểm, cảnh báo các tình huống nguy hiểm có thể xảy ra.",
+      "target": "Biển báo tam giác viền đỏ là biển báo nguy hiểm, cảnh báo về các tình huống nguy hiểm có thể xảy ra."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép vượt xe trong hầm đường bộ không?\nLuật: Điều 14, Khoản 6, Trafic.docx: Không được vượt xe trong hầm đường bộ.",
+      "target": "Không, bạn không được phép vượt xe trong hầm đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Không thắt dây an toàn khi lái xe ô tô có bị phạt không?\nLuật: Điều 6, Khoản 3, Điểm k, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe không thắt dây an toàn.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu không thắt dây an toàn khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi phải bật đèn chiếu sáng khi đi xe máy?\nLuật: Điều 20, Khoản 1, Trafic.docx: Người điều khiển xe máy phải bật đèn chiếu sáng từ 18 giờ đến 6 giờ sáng hoặc khi có sương mù, khói, bụi, trời mưa.",
+      "target": "Bạn phải bật đèn chiếu sáng khi đi xe máy từ 18 giờ đến 6 giờ sáng hoặc khi có sương mù, khói, bụi, trời mưa."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không mang giấy đăng ký xe có vi phạm luật không?\nLuật: Điều 17, Khoản 2, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy đăng ký xe.",
+      "target": "Có, bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu không mang giấy đăng ký xe khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh yêu cầu tôi làm gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh là biển hiệu lệnh, báo hiệu lệnh phải thi hành.",
+      "target": "Biển báo hình tròn màu xanh yêu cầu bạn thực hiện lệnh được ghi trên biển."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Cấm dừng xe'?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe, đỗ xe tại các vị trí có biển 'Cấm dừng xe'.",
+      "target": "Bạn không được dừng xe tại khu vực có biển 'Cấm dừng xe'."
+    },
+    {
+      "input": "Câu hỏi: Lái xe ô tô không mang giấy phép lái xe bị phạt bao nhiêu?\nLuật: Điều 21, Khoản 7, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe ô tô không mang theo Giấy phép lái xe.",
+      "target": "Bạn sẽ bị phạt từ 10 đến 12 triệu đồng nếu không mang giấy phép lái xe khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không bật đèn trong hầm đường bộ có bị phạt không?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng trong hầm đường bộ.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không bật đèn trong hầm đường bộ khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh là biển báo chỉ dẫn, chỉ dẫn hướng đi hoặc các điều cần biết.",
+      "target": "Biển báo hình vuông màu xanh là biển chỉ dẫn, cung cấp thông tin về hướng đi hoặc các điều cần biết."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp đèn đỏ, tôi có được rẽ phải không?\nLuật: Điều 11, Khoản 4, Trafic.docx: Khi đèn đỏ sáng, người điều khiển phương tiện phải dừng lại trước vạch dừng, trừ trường hợp có biển báo hoặc tín hiệu cho phép rẽ phải.",
+      "target": "Không, bạn phải dừng lại trước vạch dừng khi gặp đèn đỏ, trừ khi có biển báo hoặc tín hiệu cho phép rẽ phải."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể quay đầu xe ở nơi có biển 'Cấm quay đầu' không?\nLuật: Điều 15, Khoản 4, Trafic.docx: Không được quay đầu xe tại nơi có biển báo cấm quay đầu.",
+      "target": "Không, bạn không được quay đầu xe tại khu vực có biển 'Cấm quay đầu'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không đội mũ bảo hiểm cho trẻ em bị phạt như thế nào?\nLuật: Điều 7, Khoản 2, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe chở trẻ em không đội mũ bảo hiểm.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không đội mũ bảo hiểm cho trẻ em khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình chữ nhật màu xanh dùng để làm gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình chữ nhật màu xanh là biển báo chỉ dẫn, chỉ dẫn hướng đi hoặc các điều cần biết.",
+      "target": "Biển báo hình chữ nhật màu xanh dùng để chỉ dẫn hướng đi hoặc cung cấp các thông tin cần biết."
+    },
+    {
+      "input": "Câu hỏi: Không nhường đường cho xe ưu tiên có vi phạm luật không?\nLuật: Điều 6, Khoản 6, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe không nhường đường cho xe ưu tiên đang phát tín hiệu ưu tiên.",
+      "target": "Có, bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu không nhường đường cho xe ưu tiên đang phát tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Tốc độ tối đa 50 km/h'?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo tốc độ tối đa yêu cầu người điều khiển phương tiện không được vượt quá 50 km/h.",
+      "target": "Bạn không được lái xe vượt quá 50 km/h tại khu vực có biển 'Tốc độ tối đa 50 km/h'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không mang giấy chứng nhận bảo hiểm bị phạt bao nhiêu?\nLuật: Điều 21, Khoản 2, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực.",
+      "target": "Bạn sẽ bị phạt từ 100.000 đến 200.000 đồng nếu không mang giấy chứng nhận bảo hiểm khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được vượt xe ở đoạn đường có vạch kẻ liền không?\nLuật: Điều 14, Khoản 6, Trafic.docx: Không được vượt xe tại đoạn đường có vạch kẻ đường liền.",
+      "target": "Không, bạn không được vượt xe ở đoạn đường có vạch kẻ liền."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp đèn vàng nhấp nháy, tôi cần làm gì?\nLuật: Điều 11, Khoản 4, Trafic.docx: Khi gặp đèn vàng nhấp nháy, người điều khiển phương tiện được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ hoặc các phương tiện khác.",
+      "target": "Bạn được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ hoặc các phương tiện khác khi gặp đèn vàng nhấp nháy."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi vượt đèn đỏ khi đi xe máy, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 7, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu vượt đèn đỏ khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn viền đỏ có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn viền đỏ là biển báo cấm, biểu thị các điều cấm.",
+      "target": "Biển báo hình tròn viền đỏ là biển báo cấm, biểu thị các điều không được làm."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép quay đầu xe tại ngã tư không?\nLuật: Điều 15, Khoản 4, Trafic.docx: Không được quay đầu xe tại nơi đường giao nhau, trừ khi có biển báo cho phép.",
+      "target": "Bạn chỉ được quay đầu xe tại ngã tư nếu có biển báo cho phép."
+    },
+    {
+      "input": "Câu hỏi: Không đội mũ bảo hiểm khi đi xe máy có bị phạt không?\nLuật: Điều 7, Khoản 2, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không đội mũ bảo hiểm hoặc đội không đúng cách.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không đội mũ bảo hiểm khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp đèn vàng, tôi cần làm gì?\nLuật: Điều 11, Khoản 4, Trafic.docx: Khi đèn vàng sáng, người điều khiển phương tiện phải giảm tốc độ và chuẩn bị dừng lại trước vạch dừng, trừ khi đã đi quá vạch dừng.",
+      "target": "Bạn phải giảm tốc độ và chuẩn bị dừng lại trước vạch dừng khi gặp đèn vàng, trừ khi đã đi quá vạch dừng."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không mang giấy chứng nhận bảo hiểm có vi phạm luật không?\nLuật: Điều 21, Khoản 2, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực.",
+      "target": "Có, bạn sẽ bị phạt từ 100.000 đến 200.000 đồng nếu không mang giấy chứng nhận bảo hiểm khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh dùng để làm gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh là biển báo chỉ dẫn, chỉ dẫn hướng đi hoặc các điều cần biết.",
+      "target": "Biển báo hình vuông màu xanh dùng để chỉ dẫn hướng đi hoặc các thông tin cần biết."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể vượt xe ở đoạn đường có vạch kẻ liền không?\nLuật: Điều 14, Khoản 6, Trafic.docx: Không được vượt xe tại đoạn đường có vạch kẻ đường liền.",
+      "target": "Không, bạn không được vượt xe ở đoạn đường có vạch kẻ liền."
+    },
+    {
+      "input": "Câu hỏi: Lái xe ô tô không thắt dây an toàn bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm k, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe không thắt dây an toàn.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu không thắt dây an toàn khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Cấm rẽ phải'?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo cấm rẽ phải biểu thị người điều khiển phương tiện không được rẽ phải tại khu vực có biển này.",
+      "target": "Bạn không được rẽ phải tại khu vực có biển 'Cấm rẽ phải'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không bật đèn ban đêm có bị phạt không?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng từ 18 giờ đến 6 giờ.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không bật đèn ban đêm khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình chữ nhật màu xanh có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình chữ nhật màu xanh là biển báo chỉ dẫn, chỉ dẫn hướng đi hoặc các điều cần biết.",
+      "target": "Biển báo hình chữ nhật màu xanh dùng để chỉ dẫn hướng đi hoặc cung cấp các thông tin cần biết."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được dừng xe ở nơi có biển 'Cấm đỗ xe' không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe, đỗ xe tại các vị trí có biển 'Cấm đỗ xe'.",
+      "target": "Không, bạn không được dừng hoặc đỗ xe ở nơi có biển 'Cấm đỗ xe'."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi phải bật đèn pha khi lái xe ô tô?\nLuật: Điều 20, Khoản 1, Trafic.docx: Người lái xe phải bật đèn pha trong thời gian từ 18 giờ đến 6 giờ sáng hoặc khi có sương mù, khói, bụi, trời mưa.",
+      "target": "Bạn phải bật đèn pha khi lái xe ô tô từ 18 giờ đến 6 giờ sáng hoặc khi có sương mù, khói, bụi, trời mưa."
+    },
+    {
+      "input": "Câu hỏi: Không nhường đường cho xe ưu tiên có bị phạt không?\nLuật: Điều 6, Khoản 6, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe không nhường đường cho xe ưu tiên đang phát tín hiệu ưu tiên.",
+      "target": "Có, bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu không nhường đường cho xe ưu tiên đang phát tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không mang giấy phép lái xe bị phạt bao nhiêu?\nLuật: Điều 21, Khoản 5, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.200.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy phép lái xe.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1,2 triệu đồng nếu không mang giấy phép lái xe khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh yêu cầu gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh là biển hiệu lệnh, báo hiệu lệnh phải thi hành.",
+      "target": "Biển báo hình tròn màu xanh yêu cầu bạn thực hiện lệnh được ghi trên biển."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Nhường đường'?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo nhường đường yêu cầu người điều khiển phương tiện phải nhường đường cho các phương tiện khác tại khu vực có biển này.",
+      "target": "Bạn phải nhường đường cho các phương tiện khác tại khu vực có biển 'Nhường đường'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không đội mũ bảo hiểm cho trẻ em có vi phạm luật không?\nLuật: Điều 7, Khoản 2, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe chở trẻ em không đội mũ bảo hiểm.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không đội mũ bảo hiểm cho trẻ em khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được vượt xe trong hầm đường bộ không?\nLuật: Điều 14, Khoản 6, Trafic.docx: Không được vượt xe trong hầm đường bộ.",
+      "target": "Không, bạn không được vượt xe trong hầm đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Lái xe ô tô không mang giấy phép lái xe bị phạt như thế nào?\nLuật: Điều 21, Khoản 7, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe ô tô không mang theo Giấy phép lái xe.",
+      "target": "Bạn sẽ bị phạt từ 10 đến 12 triệu đồng nếu không mang giấy phép lái xe khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác viền đỏ dùng để làm gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo tam giác viền đỏ là biển báo nguy hiểm, cảnh báo các tình huống nguy hiểm có thể xảy ra.",
+      "target": "Biển báo tam giác viền đỏ dùng để cảnh báo về các tình huống nguy hiểm có thể xảy ra."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không bật đèn trong hầm có bị phạt không?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng trong hầm đường bộ.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không bật đèn trong hầm khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp đèn đỏ, tôi có được rẽ phải không?\nLuật: Điều 11, Khoản 4, Trafic.docx: Khi đèn đỏ sáng, người điều khiển phương tiện phải dừng lại trước vạch dừng, trừ trường hợp có biển báo hoặc tín hiệu cho phép rẽ phải.",
+      "target": "Không, bạn phải dừng lại trước vạch dừng khi gặp đèn đỏ, trừ khi có biển báo hoặc tín hiệu cho phép rẽ phải."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Tốc độ tối đa 40 km/h'?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo tốc độ tối đa yêu cầu người điều khiển phương tiện không được vượt quá 40 km/h.",
+      "target": "Bạn không được lái xe vượt quá 40 km/h tại khu vực có biển 'Tốc độ tối đa 40 km/h'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không mang giấy đăng ký xe bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 2, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang theo Giấy đăng ký xe.",
+      "target": "Bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu không mang giấy đăng ký xe khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Tôi có thể quay đầu xe ở nơi có biển 'Cấm quay đầu' không?\nLuật: Điều 15, Khoản 4, Trafic.docx: Không được quay đầu xe tại nơi có biển báo cấm quay đầu.",
+      "target": "Không, bạn không được quay đầu xe tại khu vực có biển 'Cấm quay đầu'."
+    },
+    {
+      "input": "Câu hỏi: Không bật đèn khi trời mưa có bị phạt không?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng khi trời mưa làm hạn chế tầm nhìn.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu không bật đèn khi trời mưa."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình chữ nhật màu vàng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình chữ nhật màu vàng là biển báo cảnh báo, báo hiệu các tình huống cần chú ý.",
+      "target": "Biển báo hình chữ nhật màu vàng dùng để cảnh báo các tình huống cần chú ý."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được dừng xe ở lề đường không?\nLuật: Điều 18, Khoản 5, Trafic.docx: Người điều khiển phương tiện chỉ được dừng xe, đỗ xe ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy.",
+      "target": "Có, bạn có thể dừng xe ở lề đường rộng hoặc khu đất bên ngoài phần đường xe chạy."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy vượt tốc độ tối đa cho phép bị phạt như thế nào?\nLuật: Điều 7, Khoản 4, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô vượt tốc độ quy định từ 5 km/h đến dưới 10 km/h.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu đi xe máy vượt tốc độ quy định từ 5 km/h đến dưới 10 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Cấm vượt'?\nLuật: Điều 14, Khoản 6, Trafic.docx: Không được vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt.",
+      "target": "Bạn không được vượt xe tại khu vực có biển 'Cấm vượt'."
+    },
+    {
+      "input": "Câu hỏi: Lái xe ô tô không mang giấy đăng ký xe bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 4, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe ô tô không mang theo Giấy đăng ký xe.",
+      "target": "Bạn sẽ bị phạt từ 2 đến 3 triệu đồng nếu không mang giấy đăng ký xe khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không đội mũ bảo hiểm đúng cách có bị phạt không?\nLuật: Điều 7, Khoản 2, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không đội mũ bảo hiểm hoặc đội không đúng cách.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không đội mũ bảo hiểm đúng cách khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép vượt xe khác?\nLuật: Điều 14, Khoản 3, Trafic.docx: Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác, đã có tín hiệu rẽ phải và tránh về bên phải.",
+      "target": "Bạn được vượt xe khác khi không có chướng ngại vật, không có xe ngược chiều, xe trước không có tín hiệu vượt, và bạn đã báo hiệu rẽ phải, tránh về bên phải."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với số 50 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với số 50 là biển báo cấm, yêu cầu tốc độ tối đa không quá 50 km/h.",
+      "target": "Biển báo hình tròn màu đỏ với số 50 yêu cầu bạn không được lái xe vượt quá 50 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được rẽ trái tại ngã tư có biển 'Cấm rẽ trái' không?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo cấm rẽ trái biểu thị người điều khiển phương tiện không được rẽ trái tại khu vực có biển này.",
+      "target": "Không, bạn không được rẽ trái tại ngã tư có biển 'Cấm rẽ trái'."
+    },
+    {
+      "input": "Câu hỏi: Đi xe máy không bật đèn khi trời tối bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe không sử dụng đèn chiếu sáng từ 18 giờ đến 6 giờ.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không bật đèn khi trời tối khi đi xe máy."
+    },
+    {
+      "input": "Câu hỏi: Tôi phải làm gì khi gặp biển 'Dừng lại'?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo dừng lại yêu cầu người điều khiển phương tiện phải dừng xe tại nơi có biển này.",
+      "target": "Bạn phải dừng xe tại khu vực có biển 'Dừng lại'."
+    },
+    {
+      "input": "Câu hỏi: Lái xe ô tô vượt đèn đỏ bị phạt như thế nào?\nLuật: Điều 6, Khoản 7, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe ô tô không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+      "target": "Bạn sẽ bị phạt từ 10 đến 12 triệu đồng nếu vượt đèn đỏ khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy đi vào đường cấm, mức phạt sẽ là bao nhiêu?\nLuật: Điều 7, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe mô tô đi vào đường có biển báo cấm.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe máy đi vào đường cấm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác có chấm than bên trong có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác có chấm than là biển báo nguy hiểm, cảnh báo nguy cơ xảy ra tai nạn hoặc tình huống bất ngờ.",
+      "target": "Biển báo hình tam giác có chấm than cảnh báo nguy cơ xảy ra tai nạn hoặc tình huống bất ngờ."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng điện thoại khi lái xe ô tô không?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô sử dụng điện thoại di động khi đang lái xe.",
+      "target": "Không, bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu sử dụng điện thoại khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu của cảnh sát giao thông giơ tay thẳng đứng, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay thẳng đứng, tất cả các phương tiện phải dừng lại.",
+      "target": "Bạn phải dừng xe khi gặp tín hiệu của cảnh sát giao thông giơ tay thẳng đứng."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy với tốc độ vượt quá 10 km/h so với quy định bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 6, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe mô tô vượt tốc độ quy định từ 10 km/h trở lên.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 5 triệu đồng nếu điều khiển xe máy vượt tốc độ quy định từ 10 km/h trở lên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn với nền trắng và viền đỏ có số 30 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn nền trắng viền đỏ với số 30 là biển cấm, yêu cầu tốc độ tối đa không quá 30 km/h.",
+      "target": "Biển báo hình tròn nền trắng viền đỏ với số 30 yêu cầu bạn không được lái xe vượt quá 30 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu chở quá số người quy định trên xe máy không?\nLuật: Điều 7, Khoản 3, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở quá số người quy định.",
+      "target": "Có, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu chở quá số người quy định trên xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu dân cư?\nLuật: Điều 19, Khoản 2, Trafic.docx: Không được sử dụng còi xe trong khu dân cư từ 22 giờ đến 5 giờ, trừ trường hợp xe ưu tiên.",
+      "target": "Bạn chỉ được sử dụng còi xe trong khu dân cư ngoài khung giờ từ 22 giờ đến 5 giờ, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô đi ngược chiều trên đường một chiều bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 6, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe ô tô đi ngược chiều trên đường một chiều.",
+      "target": "Bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu điều khiển xe ô tô đi ngược chiều trên đường một chiều."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu vàng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu vàng là biển cảnh báo, báo hiệu các tình huống cần chú ý.",
+      "target": "Biển báo hình vuông màu vàng dùng để cảnh báo các tình huống cần chú ý."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên cầu không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trên cầu.",
+      "target": "Không, bạn không được đỗ xe trên cầu."
+    },
+    {
+      "input": "Câu hỏi: Chở hàng vượt quá chiều cao cho phép trên xe máy bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng vượt quá chiều cao quy định.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu chở hàng vượt quá chiều cao cho phép trên xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông vẫy tay sang ngang, tôi cần làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông vẫy tay sang ngang, các phương tiện ở phía trước và phía sau phải dừng lại.",
+      "target": "Bạn phải dừng xe nếu ở phía trước hoặc phía sau cảnh sát giao thông khi họ vẫy tay sang ngang."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có gương chiếu hậu bên trái bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có gương chiếu hậu bên trái.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có gương chiếu hậu bên trái."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với mũi tên trắng đi thẳng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với mũi tên trắng đi thẳng là biển hiệu lệnh, yêu cầu phương tiện chỉ được đi thẳng.",
+      "target": "Biển báo hình tròn màu xanh với mũi tên trắng đi thẳng yêu cầu bạn chỉ được đi thẳng."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu không mang giấy chứng nhận kiểm định an toàn kỹ thuật khi lái xe ô tô không?\nLuật: Điều 17, Khoản 4, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe ô tô không mang giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
+      "target": "Có, bạn sẽ bị phạt từ 2 đến 3 triệu đồng nếu không mang giấy chứng nhận kiểm định an toàn kỹ thuật khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép dừng xe trên đường cao tốc?\nLuật: Điều 18, Khoản 7, Trafic.docx: Chỉ được dừng xe trên đường cao tốc tại các điểm dừng nghỉ được quy định hoặc trong trường hợp khẩn cấp.",
+      "target": "Bạn chỉ được dừng xe trên đường cao tốc tại các điểm dừng nghỉ quy định hoặc trong trường hợp khẩn cấp."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không chấp hành hiệu lệnh của biển báo bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không chấp hành hiệu lệnh của biển báo.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không chấp hành hiệu lệnh của biển báo."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình xe máy bên trong có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình xe máy là biển báo nguy hiểm, cảnh báo khu vực có nhiều xe máy qua lại.",
+      "target": "Biển báo hình tam giác với hình xe máy cảnh báo khu vực có nhiều xe máy qua lại."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng tai nghe khi điều khiển xe máy không?\nLuật: Điều 7, Khoản 3, Điểm f, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô sử dụng tai nghe khi đang lái xe.",
+      "target": "Không, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu sử dụng tai nghe khi điều khiển xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông chỉ tay về phía tôi, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông chỉ tay về phía phương tiện, phương tiện đó phải dừng lại.",
+      "target": "Bạn phải dừng xe khi cảnh sát giao thông chỉ tay về phía bạn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không có đèn hậu hoạt động bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có đèn hậu hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có đèn hậu hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với số 60 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với số 60 là biển hiệu lệnh, yêu cầu tốc độ tối thiểu 60 km/h.",
+      "target": "Biển báo hình tròn màu xanh với số 60 yêu cầu bạn lái xe với tốc độ tối thiểu 60 km/h."
+    },
+    {
+      "input": "Câu hỏi: Chở hàng vượt quá chiều dài cho phép trên xe máy bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng vượt quá chiều dài quy định.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu chở hàng vượt quá chiều dài cho phép trên xe máy."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trước cổng trường học không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trước cổng trường học.",
+      "target": "Không, bạn không được đỗ xe trước cổng trường học."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có đèn pha bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn pha.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn pha."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với mũi tên rẽ phải có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với mũi tên rẽ phải là biển chỉ dẫn, chỉ dẫn hướng rẽ phải.",
+      "target": "Biển báo hình vuông màu xanh với mũi tên rẽ phải chỉ dẫn hướng rẽ phải."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có còi hoạt động không?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có còi hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có còi hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn cốt khi lái xe ô tô?\nLuật: Điều 20, Khoản 3, Trafic.docx: Đèn cốt được sử dụng khi lái xe trong khu đông dân cư hoặc khi gặp xe đi ngược chiều để tránh gây chói mắt.",
+      "target": "Bạn được sử dụng đèn cốt khi lái xe ô tô trong khu đông dân cư hoặc khi gặp xe đi ngược chiều để tránh gây chói mắt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi trên vỉa hè bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô đi trên vỉa hè.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy đi trên vỉa hè."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình người đi bộ có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình người đi bộ là biển báo nguy hiểm, cảnh báo khu vực có người đi bộ qua đường.",
+      "target": "Biển báo hình tam giác với hình người đi bộ cảnh báo khu vực có người đi bộ qua đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép chở trẻ em dưới 7 tuổi trên xe máy không?\nLuật: Điều 7, Khoản 3, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở trẻ em dưới 7 tuổi.",
+      "target": "Không, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu chở trẻ em dưới 7 tuổi trên xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay trái vẫy, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay trái vẫy, các phương tiện phía trước được phép đi thẳng hoặc rẽ trái.",
+      "target": "Bạn được phép đi thẳng hoặc rẽ trái nếu ở phía trước cảnh sát giao thông khi họ giơ tay trái vẫy."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không mang giấy chứng nhận bảo hiểm bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 4, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe ô tô không mang giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu không mang giấy chứng nhận bảo hiểm khi lái xe ô tô."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với mũi tên rẽ trái có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với mũi tên rẽ trái là biển hiệu lệnh, yêu cầu phương tiện chỉ được rẽ trái.",
+      "target": "Biển báo hình tròn màu xanh với mũi tên rẽ trái yêu cầu bạn chỉ được rẽ trái."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có phanh hoạt động không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có phanh hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có phanh hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép đỗ xe trên vỉa hè?\nLuật: Điều 18, Khoản 5, Trafic.docx: Chỉ được đỗ xe trên vỉa hè tại các khu vực có biển báo cho phép đỗ xe.",
+      "target": "Bạn chỉ được đỗ xe trên vỉa hè tại các khu vực có biển báo cho phép đỗ xe."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô vượt tốc độ từ 5 km/h đến dưới 10 km/h bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô vượt tốc độ quy định từ 5 km/h đến dưới 10 km/h.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô vượt tốc độ từ 5 km/h đến dưới 10 km/h."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy chở hàng vượt quá chiều rộng quy định, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng vượt quá chiều rộng quy định.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chở hàng vượt quá chiều rộng quy định."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình xe đạp có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình xe đạp là biển báo nguy hiểm, cảnh báo khu vực có nhiều xe đạp qua lại.",
+      "target": "Biển báo hình tam giác với hình xe đạp cảnh báo khu vực có nhiều xe đạp qua lại."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn chiếu xa trong khu đông dân cư không?\nLuật: Điều 20, Khoản 3, Trafic.docx: Không được sử dụng đèn chiếu xa trong khu đông dân cư để tránh gây chói mắt.",
+      "target": "Không, bạn không được sử dụng đèn chiếu xa trong khu đông dân cư để tránh gây chói mắt."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ hai tay dang ngang, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ hai tay dang ngang, tất cả các phương tiện từ các hướng phải dừng lại.",
+      "target": "Bạn phải dừng xe từ bất kỳ hướng nào khi cảnh sát giao thông giơ hai tay dang ngang."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chở hàng vượt quá trọng tải cho phép bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô chở hàng vượt quá trọng tải quy định.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô chở hàng vượt quá trọng tải quy định."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với chữ 'STOP' có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với chữ 'STOP' là biển cấm, yêu cầu phương tiện phải dừng lại.",
+      "target": "Biển báo hình tròn màu đỏ với chữ 'STOP' yêu cầu bạn phải dừng xe."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có đèn báo rẽ không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn báo rẽ hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn báo rẽ hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe ô tô trong khu đô thị?\nLuật: Điều 19, Khoản 2, Trafic.docx: Chỉ được sử dụng còi xe trong khu đô thị từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên.",
+      "target": "Bạn được sử dụng còi xe ô tô trong khu đô thị từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào làn đường dành riêng cho ô tô bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô đi vào làn đường dành riêng cho ô tô.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy đi vào làn đường dành riêng cho ô tô."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình trẻ em có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình trẻ em là biển báo nguy hiểm, cảnh báo khu vực có trẻ em qua đường.",
+      "target": "Biển báo hình tam giác với hình trẻ em cảnh báo khu vực có trẻ em qua đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe tại giao lộ không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe tại giao lộ.",
+      "target": "Không, bạn không được đỗ xe tại giao lộ."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không có gương chiếu hậu bên phải bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có gương chiếu hậu bên phải.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có gương chiếu hậu bên phải."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông quay người về phía tôi, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông quay người về phía phương tiện, phương tiện đó phải dừng lại.",
+      "target": "Bạn phải dừng xe khi cảnh sát giao thông quay người về phía bạn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không mang giấy chứng nhận kiểm định an toàn kỹ thuật bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang giấy chứng nhận kiểm định an toàn kỹ thuật.",
+      "target": "Bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu điều khiển xe máy không mang giấy chứng nhận kiểm định an toàn kỹ thuật."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình chữ P có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với chữ P là biển chỉ dẫn, cho phép đỗ xe tại khu vực này.",
+      "target": "Biển báo hình vuông màu xanh với chữ P cho phép bạn đỗ xe tại khu vực này."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô chở trẻ em dưới 7 tuổi không có ghế an toàn không?\nLuật: Điều 6, Khoản 4, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô chở trẻ em dưới 7 tuổi không có ghế an toàn.",
+      "target": "Có, bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô chở trẻ em dưới 7 tuổi không có ghế an toàn."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép rẽ trái tại ngã tư?\nLuật: Điều 15, Khoản 2, Trafic.docx: Bạn được phép rẽ trái tại ngã tư khi có biển báo cho phép hoặc tín hiệu đèn giao thông cho phép rẽ trái.",
+      "target": "Bạn được phép rẽ trái tại ngã tư khi có biển báo hoặc tín hiệu đèn giao thông cho phép."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không chấp hành tín hiệu đèn giao thông bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 7, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô không chấp hành tín hiệu đèn giao thông.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy không chấp hành tín hiệu đèn giao thông."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình ô tô trượt có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình ô tô trượt là biển báo nguy hiểm, cảnh báo đường trơn trượt.",
+      "target": "Biển báo hình tam giác với hình ô tô trượt cảnh báo đường trơn trượt."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng còi hơi trên xe ô tô không?\nLuật: Điều 19, Khoản 4, Trafic.docx: Không được sử dụng còi hơi trên xe ô tô, trừ trường hợp xe ưu tiên.",
+      "target": "Không, bạn không được sử dụng còi hơi trên xe ô tô, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô đi vào đường cấm bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô đi vào đường có biển báo cấm.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô đi vào đường cấm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với mũi tên đi thẳng hoặc rẽ phải có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với mũi tên đi thẳng hoặc rẽ phải là biển hiệu lệnh, yêu cầu phương tiện chỉ được đi thẳng hoặc rẽ phải.",
+      "target": "Biển báo hình tròn màu xanh với mũi tên đi thẳng hoặc rẽ phải yêu cầu bạn chỉ được đi thẳng hoặc rẽ phải."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có giấy phép lái xe hợp lệ không?\nLuật: Điều 21, Khoản 6, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô không có giấy phép lái xe hợp lệ.",
+      "target": "Có, bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy không có giấy phép lái xe hợp lệ."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép vượt xe trên đường cao tốc?\nLuật: Điều 14, Khoản 3, Trafic.docx: Trên đường cao tốc, bạn được vượt xe khi không có chướng ngại vật, không có xe ngược chiều, xe trước không có tín hiệu vượt, và bạn đã báo hiệu vượt.",
+      "target": "Bạn được vượt xe trên đường cao tốc khi không có chướng ngại vật, không có xe ngược chiều, xe trước không có tín hiệu vượt, và bạn đã báo hiệu vượt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không mang giấy chứng nhận kiểm định an toàn kỹ thuật bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe ô tô không mang giấy chứng nhận kiểm định an toàn kỹ thuật.",
+      "target": "Bạn sẽ bị phạt từ 2 đến 3 triệu đồng nếu điều khiển xe ô tô không mang giấy chứng nhận kiểm định an toàn kỹ thuật."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường hẹp có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường hẹp là biển báo nguy hiểm, cảnh báo đoạn đường phía trước bị thu hẹp.",
+      "target": "Biển báo hình tam giác với hình đường hẹp cảnh báo đoạn đường phía trước bị thu hẹp."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đường sắt không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trên đường sắt.",
+      "target": "Không, bạn không được dừng xe trên đường sắt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn báo rẽ khi chuyển hướng bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn báo rẽ khi chuyển hướng.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không sử dụng đèn báo rẽ khi chuyển hướng."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay phải vẫy, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay phải vẫy, các phương tiện phía trước được phép đi thẳng hoặc rẽ phải.",
+      "target": "Bạn được phép đi thẳng hoặc rẽ phải nếu ở phía trước cảnh sát giao thông khi họ giơ tay phải vẫy."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không có phanh hoạt động bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có phanh hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có phanh hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình mũi tên đi thẳng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với mũi tên đi thẳng là biển chỉ dẫn, hướng dẫn phương tiện đi thẳng.",
+      "target": "Biển báo hình vuông màu xanh với mũi tên đi thẳng hướng dẫn bạn đi thẳng."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy chở hàng không buộc chặt không?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng không buộc chặt.",
+      "target": "Có, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chở hàng không buộc chặt."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu xa khi lái xe ô tô?\nLuật: Điều 20, Khoản 3, Trafic.docx: Đèn chiếu xa được sử dụng trên đường quốc lộ hoặc khu vực không có đèn đường vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu xa khi lái xe ô tô trên đường quốc lộ hoặc khu vực không có đèn đường vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào đường cao tốc bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe mô tô đi vào đường cao tốc.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe máy đi vào đường cao tốc."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường giao nhau có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường giao nhau là biển báo nguy hiểm, cảnh báo đoạn đường phía trước có giao lộ.",
+      "target": "Biển báo hình tam giác với hình đường giao nhau cảnh báo đoạn đường phía trước có giao lộ."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên lối đi bộ không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trên lối đi bộ.",
+      "target": "Không, bạn không được dừng xe trên lối đi bộ."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển hướng bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển hướng.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển hướng."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với chữ số 80 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với chữ số 80 là biển hiệu lệnh, yêu cầu tốc độ tối thiểu 80 km/h.",
+      "target": "Biển báo hình tròn màu xanh với chữ số 80 yêu cầu bạn lái xe với tốc độ tối thiểu 80 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có giấy phép lái xe không?\nLuật: Điều 21, Khoản 6, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô không có giấy phép lái xe.",
+      "target": "Có, bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy không có giấy phép lái xe."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy chạy quá tốc độ từ 20 km/h trở lên, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 7, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe mô tô vượt tốc độ quy định từ 20 km/h trở lên.",
+      "target": "Bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu điều khiển xe máy chạy quá tốc độ từ 20 km/h trở lên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình con vật băng qua đường có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình con vật băng qua là biển báo nguy hiểm, cảnh báo khu vực có động vật qua đường.",
+      "target": "Biển báo hình tam giác với hình con vật băng qua cảnh báo khu vực có động vật qua đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng ô khi điều khiển xe máy không?\nLuật: Điều 7, Khoản 3, Điểm f, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô sử dụng ô khi đang lái xe.",
+      "target": "Không, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu sử dụng ô khi điều khiển xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay trái chỉ về phía trước, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay trái chỉ về phía trước, phương tiện phía trước được phép đi thẳng.",
+      "target": "Bạn được phép đi thẳng nếu ở phía trước cảnh sát giao thông khi họ giơ tay trái chỉ về phía trước."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chở hàng vượt quá chiều dài quy định bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô chở hàng vượt quá chiều dài quy định.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô chở hàng vượt quá chiều dài quy định."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với mũi tên đi thẳng bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với mũi tên đi thẳng bị gạch chéo là biển cấm, cấm phương tiện đi thẳng.",
+      "target": "Biển báo hình tròn màu đỏ với mũi tên đi thẳng bị gạch chéo cấm bạn đi thẳng."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có giấy chứng nhận đăng ký xe không?\nLuật: Điều 17, Khoản 6, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe mô tô không có giấy chứng nhận đăng ký xe.",
+      "target": "Có, bạn sẽ bị phạt từ 2 đến 3 triệu đồng nếu điều khiển xe máy không có giấy chứng nhận đăng ký xe."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn sương mù trên xe ô tô?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn sương mù được sử dụng khi có sương mù dày đặc hoặc tầm nhìn bị hạn chế dưới 100 mét.",
+      "target": "Bạn được sử dụng đèn sương mù trên xe ô tô khi có sương mù dày đặc hoặc tầm nhìn bị hạn chế dưới 100 mét."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào đường dành riêng cho người đi bộ bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô đi vào đường dành riêng cho người đi bộ.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy đi vào đường dành riêng cho người đi bộ."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình cầu vượt có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình cầu vượt là biển báo nguy hiểm, cảnh báo khu vực có cầu vượt phía trước.",
+      "target": "Biển báo hình tam giác với hình cầu vượt cảnh báo khu vực có cầu vượt phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đường cong không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trên đường cong làm cản trở giao thông.",
+      "target": "Không, bạn không được đỗ xe trên đường cong nếu làm cản trở giao thông."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không có đèn báo rẽ hoạt động bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có đèn báo rẽ hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có đèn báo rẽ hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông đứng quay lưng về phía tôi, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông đứng quay lưng về phía phương tiện, phương tiện đó được phép đi thẳng.",
+      "target": "Bạn được phép đi thẳng nếu cảnh sát giao thông đứng quay lưng về phía bạn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có hệ thống giảm thanh bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có hệ thống giảm thanh.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có hệ thống giảm thanh."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình chữ T có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với chữ T là biển chỉ dẫn, báo hiệu ngã ba hình chữ T phía trước.",
+      "target": "Biển báo hình vuông màu xanh với chữ T báo hiệu ngã ba hình chữ T phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô chở hàng không buộc chặt không?\nLuật: Điều 6, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô chở hàng không buộc chặt.",
+      "target": "Có, bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô chở hàng không buộc chặt."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép rẽ phải tại ngã tư?\nLuật: Điều 15, Khoản 2, Trafic.docx: Bạn được phép rẽ phải tại ngã tư khi có biển báo hoặc tín hiệu đèn giao thông cho phép rẽ phải.",
+      "target": "Bạn được phép rẽ phải tại ngã tư khi có biển báo hoặc tín hiệu đèn giao thông cho phép."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không chấp hành hiệu lệnh của cảnh sát giao thông bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 7, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô không chấp hành hiệu lệnh của cảnh sát giao thông.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy không chấp hành hiệu lệnh của cảnh sát giao thông."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường sắt cắt ngang có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường sắt cắt ngang là biển báo nguy hiểm, cảnh báo khu vực có đường sắt giao nhau với đường bộ.",
+      "target": "Biển báo hình tam giác với hình đường sắt cắt ngang cảnh báo khu vực có đường sắt giao nhau với đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn nháy trên xe ô tô không?\nLuật: Điều 20, Khoản 5, Trafic.docx: Không được sử dụng đèn nháy trên xe ô tô, trừ trường hợp xe ưu tiên.",
+      "target": "Không, bạn không được sử dụng đèn nháy trên xe ô tô, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô đi vào đường dành riêng cho xe máy bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô đi vào đường dành riêng cho xe máy.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô đi vào đường dành riêng cho xe máy."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với mũi tên rẽ trái bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với mũi tên rẽ trái bị gạch chéo là biển cấm, cấm phương tiện rẽ trái.",
+      "target": "Biển báo hình tròn màu đỏ với mũi tên rẽ trái bị gạch chéo cấm bạn rẽ trái."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không mang giấy chứng nhận bảo hiểm trách nhiệm dân sự không?\nLuật: Điều 17, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe mô tô không mang giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực.",
+      "target": "Có, bạn sẽ bị phạt từ 100.000 đến 200.000 đồng nếu điều khiển xe máy không mang giấy chứng nhận bảo hiểm trách nhiệm dân sự."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn cảnh báo nguy hiểm trên xe ô tô?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn cảnh báo nguy hiểm được sử dụng khi xe dừng khẩn cấp hoặc gặp sự cố trên đường.",
+      "target": "Bạn được sử dụng đèn cảnh báo nguy hiểm trên xe ô tô khi xe dừng khẩn cấp hoặc gặp sự cố trên đường."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có đèn hậu hoạt động bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn hậu hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn hậu hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình mũi tên rẽ trái có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với mũi tên rẽ trái là biển chỉ dẫn, hướng dẫn phương tiện rẽ trái.",
+      "target": "Biển báo hình vuông màu xanh với mũi tên rẽ trái hướng dẫn bạn rẽ trái."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên cầu vượt không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trên cầu vượt.",
+      "target": "Không, bạn không được đỗ xe trên cầu vượt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không chấp hành hiệu lệnh của cảnh sát giao thông bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 7, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe ô tô không chấp hành hiệu lệnh của cảnh sát giao thông.",
+      "target": "Bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu điều khiển xe ô tô không chấp hành hiệu lệnh của cảnh sát giao thông."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường dốc đứng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường dốc đứng là biển báo nguy hiểm, cảnh báo đoạn đường có dốc đứng phía trước.",
+      "target": "Biển báo hình tam giác với hình đường dốc đứng cảnh báo đoạn đường có dốc đứng phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy chở hàng cồng kềnh làm cản trở giao thông không?\nLuật: Điều 7, Khoản 4, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng cồng kềnh làm cản trở giao thông.",
+      "target": "Có, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chở hàng cồng kềnh làm cản trở giao thông."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu công nghiệp?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu công nghiệp từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu công nghiệp từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chạy quá tốc độ từ 10 km/h đến 20 km/h bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô vượt tốc độ quy định từ 10 km/h đến 20 km/h.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô chạy quá tốc độ từ 10 km/h đến 20 km/h."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với mũi tên đi thẳng và rẽ trái có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với mũi tên đi thẳng và rẽ trái là biển hiệu lệnh, yêu cầu phương tiện chỉ được đi thẳng hoặc rẽ trái.",
+      "target": "Biển báo hình tròn màu xanh với mũi tên đi thẳng và rẽ trái yêu cầu bạn chỉ được đi thẳng hoặc rẽ trái."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đường hầm không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trong đường hầm.",
+      "target": "Không, bạn không được dừng xe trong đường hầm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có đèn báo phanh hoạt động bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn báo phanh hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn báo phanh hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình chữ Y có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với chữ Y là biển chỉ dẫn, báo hiệu ngã ba hình chữ Y phía trước.",
+      "target": "Biển báo hình vuông màu xanh với chữ Y báo hiệu ngã ba hình chữ Y phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không mang giấy chứng nhận đăng ký xe không?\nLuật: Điều 17, Khoản 4, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe ô tô không mang giấy chứng nhận đăng ký xe.",
+      "target": "Có, bạn sẽ bị phạt từ 2 đến 3 triệu đồng nếu điều khiển xe ô tô không mang giấy chứng nhận đăng ký xe."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu gần khi lái xe ô tô?\nLuật: Điều 20, Khoản 3, Trafic.docx: Đèn chiếu gần được sử dụng trong khu đông dân cư hoặc khi gặp xe đi ngược chiều để tránh gây chói mắt.",
+      "target": "Bạn được sử dụng đèn chiếu gần khi lái xe ô tô trong khu đông dân cư hoặc khi gặp xe đi ngược chiều để tránh gây chói mắt."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy đi ngược chiều trên đường một chiều, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 6, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô đi ngược chiều trên đường một chiều.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy đi ngược chiều trên đường một chiều."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đá rơi có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đá rơi là biển báo nguy hiểm, cảnh báo khu vực có nguy cơ đá rơi.",
+      "target": "Biển báo hình tam giác với hình đá rơi cảnh báo khu vực có nguy cơ đá rơi."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng điện thoại khi điều khiển xe máy không?\nLuật: Điều 7, Khoản 3, Điểm f, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô sử dụng điện thoại di động khi đang lái xe.",
+      "target": "Không, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu sử dụng điện thoại khi điều khiển xe máy."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay phải chỉ về phía trước, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay phải chỉ về phía trước, phương tiện phía trước được phép đi thẳng.",
+      "target": "Bạn được phép đi thẳng nếu ở phía trước cảnh sát giao thông khi họ giơ tay phải chỉ về phía trước."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chạy quá tốc độ từ 20 km/h trở lên bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 6, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe ô tô vượt tốc độ quy định từ 20 km/h trở lên.",
+      "target": "Bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu điều khiển xe ô tô chạy quá tốc độ từ 20 km/h trở lên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe máy bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe máy bị gạch chéo là biển cấm, cấm xe máy đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe máy bị gạch chéo cấm xe máy đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có hệ thống giảm thanh không?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có hệ thống giảm thanh.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có hệ thống giảm thanh."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu xa trong hầm đường bộ?\nLuật: Điều 20, Khoản 3, Trafic.docx: Đèn chiếu xa được sử dụng trong hầm đường bộ nếu không có xe đi ngược chiều để tránh gây chói mắt.",
+      "target": "Bạn được sử dụng đèn chiếu xa trong hầm đường bộ nếu không có xe đi ngược chiều để tránh gây chói mắt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào khu vực cấm dừng bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô dừng xe tại khu vực có biển cấm dừng.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy dừng xe tại khu vực cấm dừng."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình xe buýt có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình xe buýt là biển báo nguy hiểm, cảnh báo khu vực có xe buýt qua lại.",
+      "target": "Biển báo hình tam giác với hình xe buýt cảnh báo khu vực có xe buýt qua lại."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đường có vạch kẻ đường liền không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trên đường có vạch kẻ đường liền.",
+      "target": "Không, bạn không được đỗ xe trên đường có vạch kẻ đường liền."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn chiếu sáng trong hầm bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn chiếu sáng trong hầm đường bộ.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn chiếu sáng trong hầm."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay trái vẫy về phía sau, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay trái vẫy về phía sau, phương tiện phía sau được phép đi thẳng.",
+      "target": "Bạn được phép đi thẳng nếu ở phía sau cảnh sát giao thông khi họ giơ tay trái vẫy về phía sau."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy chở hàng vượt quá trọng lượng quy định bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng vượt quá trọng lượng quy định.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chở hàng vượt quá trọng lượng quy định."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình mũi tên vòng quanh có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với mũi tên vòng quanh là biển chỉ dẫn, báo hiệu khu vực giao nhau kiểu vòng xuyến.",
+      "target": "Biển báo hình vuông màu xanh với mũi tên vòng quanh báo hiệu khu vực giao nhau kiểu vòng xuyến."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có đèn báo phanh hoạt động không?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có đèn báo phanh hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có đèn báo phanh hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực bệnh viện?\nLuật: Điều 19, Khoản 2, Trafic.docx: Không được sử dụng còi xe trong khu vực bệnh viện từ 22 giờ đến 5 giờ, trừ trường hợp xe ưu tiên.",
+      "target": "Bạn được sử dụng còi xe trong khu vực bệnh viện ngoài khung giờ từ 22 giờ đến 5 giờ, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi trời mưa bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi trời mưa.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi trời mưa."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường cong nguy hiểm có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường cong nguy hiểm là biển báo nguy hiểm, cảnh báo đoạn đường có nhiều khúc cua nguy hiểm.",
+      "target": "Biển báo hình tam giác với hình đường cong nguy hiểm cảnh báo đoạn đường có nhiều khúc cua nguy hiểm."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trước trạm thu phí không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trước trạm thu phí.",
+      "target": "Không, bạn không được dừng xe trước trạm thu phí."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không chấp hành hiệu lệnh của biển báo bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không chấp hành hiệu lệnh của biển báo.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không chấp hành hiệu lệnh của biển báo."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình ô tô bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình ô tô bị gạch chéo là biển cấm, cấm xe ô tô đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình ô tô bị gạch chéo cấm xe ô tô đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có còi hoạt động không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có còi hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có còi hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn pha khi lái xe trong thành phố?\nLuật: Điều 20, Khoản 3, Trafic.docx: Đèn pha chỉ được sử dụng trong thành phố khi không có xe đi ngược chiều và không gây chói mắt cho người khác.",
+      "target": "Bạn được sử dụng đèn pha khi lái xe trong thành phố khi không có xe đi ngược chiều và không gây chói mắt cho người khác."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào đường dành riêng cho xe buýt bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô đi vào đường dành riêng cho xe buýt.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy đi vào đường dành riêng cho xe buýt."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình xe cứu thương có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình xe cứu thương là biển chỉ dẫn, báo hiệu khu vực có trạm cứu thương gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình xe cứu thương báo hiệu khu vực có trạm cứu thương gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm dừng không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe, đỗ xe tại khu vực có biển cấm dừng.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm dừng."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không có gương chiếu hậu bên trái bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có gương chiếu hậu bên trái.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có gương chiếu hậu bên trái."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường hẹp bên trái có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường hẹp bên trái là biển báo nguy hiểm, cảnh báo đoạn đường thu hẹp bên trái.",
+      "target": "Biển báo hình tam giác với hình đường hẹp bên trái cảnh báo đoạn đường thu hẹp bên trái."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy chở hàng vượt quá kích thước quy định không?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng vượt quá kích thước quy định.",
+      "target": "Có, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chở hàng vượt quá kích thước quy định."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực trường học?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực trường học từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên.",
+      "target": "Bạn được sử dụng còi xe trong khu vực trường học từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn chiếu sáng khi trời tối bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn chiếu sáng từ 18 giờ đến 6 giờ.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn chiếu sáng khi trời tối."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với mũi tên rẽ phải và đi thẳng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với mũi tên rẽ phải và đi thẳng là biển hiệu lệnh, yêu cầu phương tiện chỉ được rẽ phải hoặc đi thẳng.",
+      "target": "Biển báo hình tròn màu xanh với mũi tên rẽ phải và đi thẳng yêu cầu bạn chỉ được rẽ phải hoặc đi thẳng."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có vạch kẻ nét đứt không?\nLuật: Điều 18, Khoản 5, Trafic.docx: Được phép dừng xe trên đoạn đường có vạch kẻ nét đứt nếu không cản trở giao thông.",
+      "target": "Có, bạn được phép dừng xe trên đoạn đường có vạch kẻ nét đứt nếu không cản trở giao thông."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không mang giấy chứng nhận kiểm định an toàn kỹ thuật bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang giấy chứng nhận kiểm định an toàn kỹ thuật.",
+      "target": "Bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu điều khiển xe máy không mang giấy chứng nhận kiểm định an toàn kỹ thuật."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình trạm xăng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình trạm xăng là biển chỉ dẫn, báo hiệu khu vực có trạm xăng gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình trạm xăng báo hiệu khu vực có trạm xăng gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô chở hàng vượt quá chiều rộng quy định không?\nLuật: Điều 6, Khoản 5, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô chở hàng vượt quá chiều rộng quy định.",
+      "target": "Có, bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô chở hàng vượt quá chiều rộng quy định."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng trong điều kiện thời tiết xấu?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng trong điều kiện thời tiết xấu như mưa lớn, sương mù, hoặc khói bụi làm hạn chế tầm nhìn.",
+      "target": "Bạn được sử dụng đèn chiếu sáng trong điều kiện thời tiết xấu như mưa lớn, sương mù, hoặc khói bụi làm hạn chế tầm nhìn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn báo rẽ khi chuyển làn bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn báo rẽ khi chuyển làn.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không sử dụng đèn báo rẽ khi chuyển làn."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy không giữ khoảng cách an toàn với xe phía trước, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm f, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không giữ khoảng cách an toàn với xe phía trước.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không giữ khoảng cách an toàn với xe phía trước."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình công trường xây dựng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình công trường xây dựng là biển báo nguy hiểm, cảnh báo khu vực có công trường xây dựng phía trước.",
+      "target": "Biển báo hình tam giác với hình công trường xây dựng cảnh báo khu vực có công trường xây dựng phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn chớp vàng trên xe máy không?\nLuật: Điều 20, Khoản 5, Trafic.docx: Không được sử dụng đèn chớp vàng trên xe máy, trừ trường hợp xe ưu tiên.",
+      "target": "Không, bạn không được sử dụng đèn chớp vàng trên xe máy, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông đứng nghiêng người về phía tôi, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông đứng nghiêng người về phía phương tiện, phương tiện đó phải dừng lại.",
+      "target": "Bạn phải dừng xe khi cảnh sát giao thông đứng nghiêng người về phía bạn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chở hàng vượt quá chiều cao quy định bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô chở hàng vượt quá chiều cao quy định.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô chở hàng vượt quá chiều cao quy định."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe tải bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe tải bị gạch chéo là biển cấm, cấm xe tải đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe tải bị gạch chéo cấm xe tải đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có giấy phép lái xe phù hợp với loại xe không?\nLuật: Điều 21, Khoản 6, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô không có giấy phép lái xe phù hợp với loại xe.",
+      "target": "Có, bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy không có giấy phép lái xe phù hợp với loại xe."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe trong sương mù?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe trong sương mù để đảm bảo an toàn.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe trong sương mù để đảm bảo an toàn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào khu vực cấm đỗ xe bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô đỗ xe tại khu vực có biển cấm đỗ.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy đỗ xe tại khu vực cấm đỗ."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường hầm phía trước có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường hầm là biển báo nguy hiểm, cảnh báo khu vực có đường hầm phía trước.",
+      "target": "Biển báo hình tam giác với hình đường hầm cảnh báo khu vực có đường hầm phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đường có vạch kẻ nét liền đôi không?\nLuật: Điều 18, Khoản 6, Trafic.docx: Không được dừng xe, đỗ xe trên đường có vạch kẻ nét liền đôi.",
+      "target": "Không, bạn không được dừng xe trên đường có vạch kẻ nét liền đôi."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển làn bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển làn.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển làn."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay phải vẫy về phía sau, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay phải vẫy về phía sau, phương tiện phía sau được phép đi thẳng.",
+      "target": "Bạn được phép đi thẳng nếu ở phía sau cảnh sát giao thông khi họ giơ tay phải vẫy về phía sau."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có gương chiếu hậu bên phải bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có gương chiếu hậu bên phải.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có gương chiếu hậu bên phải."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình chữ S có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với chữ S là biển chỉ dẫn, báo hiệu khu vực có trạm sửa xe gần đó.",
+      "target": "Biển báo hình vuông màu xanh với chữ S báo hiệu khu vực có trạm sửa xe gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không giữ khoảng cách an toàn với xe phía trước không?\nLuật: Điều 6, Khoản 4, Điểm f, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không giữ khoảng cách an toàn với xe phía trước.",
+      "target": "Có, bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không giữ khoảng cách an toàn với xe phía trước."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực chợ?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực chợ từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu vực chợ từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng trong điều kiện sương mù bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng trong điều kiện sương mù.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng trong điều kiện sương mù."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường hẹp bên phải có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường hẹp bên phải là biển báo nguy hiểm, cảnh báo đoạn đường thu hẹp bên phải.",
+      "target": "Biển báo hình tam giác với hình đường hẹp bên phải cảnh báo đoạn đường thu hẹp bên phải."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe vào ngày chẵn không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe vào ngày chẵn nếu ngày hiện tại là ngày chẵn.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe vào ngày chẵn nếu hôm nay là ngày chẵn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn chiếu sáng trong điều kiện sương mù bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn chiếu sáng trong điều kiện sương mù.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn chiếu sáng trong điều kiện sương mù."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình người đi bộ bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình người đi bộ bị gạch chéo là biển cấm, cấm người đi bộ qua đường.",
+      "target": "Biển báo hình tròn màu đỏ với hình người đi bộ bị gạch chéo cấm người đi bộ qua đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có giấy phép lái xe do bị mất không?\nLuật: Điều 21, Khoản 6, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô không có giấy phép lái xe.",
+      "target": "Có, bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy không có giấy phép lái xe do bị mất."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chớp đỏ trên xe ô tô?\nLuật: Điều 20, Khoản 5, Trafic.docx: Đèn chớp đỏ chỉ được sử dụng trên xe ô tô ưu tiên như xe cứu hỏa, xe cứu thương hoặc xe cảnh sát.",
+      "target": "Bạn chỉ được sử dụng đèn chớp đỏ trên xe ô tô nếu đó là xe ưu tiên như xe cứu hỏa, xe cứu thương hoặc xe cảnh sát."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào đường cấm vào giờ cao điểm bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe mô tô đi vào đường cấm vào giờ cao điểm.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe máy đi vào đường cấm vào giờ cao điểm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình điện thoại có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình điện thoại là biển chỉ dẫn, báo hiệu khu vực có trạm điện thoại gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình điện thoại báo hiệu khu vực có trạm điện thoại gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe vào ngày lẻ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe vào ngày lẻ nếu ngày hiện tại là ngày lẻ.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe vào ngày lẻ nếu hôm nay là ngày lẻ."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không có hệ thống phanh chống bó cứng ABS bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có hệ thống phanh chống bó cứng ABS theo quy định.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có hệ thống phanh chống bó cứng ABS."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình xe trượt tuyết có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình xe trượt tuyết là biển báo nguy hiểm, cảnh báo đoạn đường có bề mặt trơn trượt do tuyết hoặc băng.",
+      "target": "Biển báo hình tam giác với hình xe trượt tuyết cảnh báo đoạn đường trơn trượt do tuyết hoặc băng."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có đèn báo rẽ bên phải không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn báo rẽ bên phải.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn báo rẽ bên phải."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực cảng?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực cảng từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu vực cảng từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô đi vào đường cấm vào giờ cao điểm bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô đi vào đường cấm vào giờ cao điểm.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô đi vào đường cấm vào giờ cao điểm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với hình người đi bộ có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với hình người đi bộ là biển hiệu lệnh, yêu cầu nhường đường cho người đi bộ.",
+      "target": "Biển báo hình tròn màu xanh với hình người đi bộ yêu cầu bạn nhường đường cho người đi bộ."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng vào giờ cao điểm không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng vào giờ cao điểm.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng vào giờ cao điểm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng trong điều kiện khói bụi bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng trong điều kiện khói bụi.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng trong điều kiện khói bụi."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình bãi đỗ xe có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình bãi đỗ xe là biển chỉ dẫn, báo hiệu khu vực có bãi đỗ xe gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình bãi đỗ xe báo hiệu khu vực có bãi đỗ xe gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có giấy phép lái xe phù hợp với loại xe không?\nLuật: Điều 21, Khoản 7, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe ô tô không có giấy phép lái xe phù hợp với loại xe.",
+      "target": "Có, bạn sẽ bị phạt từ 10 đến 12 triệu đồng nếu điều khiển xe ô tô không có giấy phép lái xe phù hợp với loại xe."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe trong điều kiện mưa lớn?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe trong điều kiện mưa lớn để đảm bảo an toàn.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe trong điều kiện mưa lớn để đảm bảo an toàn."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy không nhường đường cho người đi bộ tại vạch kẻ đường, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không nhường đường cho người đi bộ tại vạch kẻ đường.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không nhường đường cho người đi bộ tại vạch kẻ đường."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình gió thổi mạnh có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình gió thổi mạnh là biển báo nguy hiểm, cảnh báo khu vực có gió mạnh gây nguy hiểm.",
+      "target": "Biển báo hình tam giác với hình gió thổi mạnh cảnh báo khu vực có gió mạnh gây nguy hiểm."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn chiếu sáng màu xanh trên xe ô tô không?\nLuật: Điều 20, Khoản 5, Trafic.docx: Không được sử dụng đèn chiếu sáng màu xanh trên xe ô tô, trừ trường hợp xe ưu tiên như xe cảnh sát.",
+      "target": "Không, bạn không được sử dụng đèn chiếu sáng màu xanh trên xe ô tô, trừ trường hợp xe ưu tiên như xe cảnh sát."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay trái vẫy ngang, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay trái vẫy ngang, phương tiện phía trước và phía sau phải dừng lại.",
+      "target": "Bạn phải dừng xe nếu ở phía trước hoặc phía sau cảnh sát giao thông khi họ giơ tay trái vẫy ngang."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không nhường đường cho người đi bộ tại vạch kẻ đường bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không nhường đường cho người đi bộ tại vạch kẻ đường.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không nhường đường cho người đi bộ tại vạch kẻ đường."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe đạp bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe đạp bị gạch chéo là biển cấm, cấm xe đạp đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe đạp bị gạch chéo cấm xe đạp đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực không?\nLuật: Điều 17, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe mô tô không có giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực.",
+      "target": "Có, bạn sẽ bị phạt từ 100.000 đến 200.000 đồng nếu điều khiển xe máy không có giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn cảnh báo nguy hiểm trên xe máy?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn cảnh báo nguy hiểm trên xe máy được sử dụng khi xe dừng khẩn cấp hoặc gặp sự cố trên đường.",
+      "target": "Bạn được sử dụng đèn cảnh báo nguy hiểm trên xe máy khi xe dừng khẩn cấp hoặc gặp sự cố trên đường."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực đông dân cư vào ban đêm bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi đi qua khu vực đông dân cư vào ban đêm.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực đông dân cư vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình xe kéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình xe kéo là biển báo nguy hiểm, cảnh báo khu vực có xe kéo qua lại.",
+      "target": "Biển báo hình tam giác với hình xe kéo cảnh báo khu vực có xe kéo qua lại."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng vào ban đêm không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng vào ban đêm từ 22 giờ đến 5 giờ.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng vào ban đêm từ 22 giờ đến 5 giờ."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực đông dân cư vào ban đêm bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực đông dân cư vào ban đêm.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực đông dân cư vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay phải vẫy ngang, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay phải vẫy ngang, phương tiện phía trước và phía sau phải dừng lại.",
+      "target": "Bạn phải dừng xe nếu ở phía trước hoặc phía sau cảnh sát giao thông khi họ giơ tay phải vẫy ngang."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có hệ thống phanh hoạt động bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có hệ thống phanh hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có hệ thống phanh hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình bệnh viện có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình bệnh viện là biển chỉ dẫn, báo hiệu khu vực có bệnh viện gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình bệnh viện báo hiệu khu vực có bệnh viện gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực không?\nLuật: Điều 17, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe ô tô không có giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe ô tô không có giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng trong khu vực đông dân cư?\nLuật: Điều 20, Khoản 3, Trafic.docx: Đèn chiếu sáng được sử dụng trong khu vực đông dân cư vào ban đêm hoặc khi điều kiện thời tiết xấu làm hạn chế tầm nhìn.",
+      "target": "Bạn được sử dụng đèn chiếu sáng trong khu vực đông dân cư vào ban đêm hoặc khi điều kiện thời tiết xấu làm hạn chế tầm nhìn."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn báo rẽ khi vượt xe bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn báo rẽ khi vượt xe.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không sử dụng đèn báo rẽ khi vượt xe."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường ngập nước có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường ngập nước là biển báo nguy hiểm, cảnh báo khu vực có nguy cơ ngập nước.",
+      "target": "Biển báo hình tam giác với hình đường ngập nước cảnh báo khu vực có nguy cơ ngập nước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 7 giờ đến 17 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 7 giờ đến 17 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 7 giờ đến 17 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn báo rẽ khi vượt xe bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn báo rẽ khi vượt xe.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi vượt xe."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình còi xe bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình còi xe bị gạch chéo là biển cấm, cấm sử dụng còi xe.",
+      "target": "Biển báo hình tròn màu đỏ với hình còi xe bị gạch chéo cấm sử dụng còi xe."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không mang giấy đăng ký xe không?\nLuật: Điều 17, Khoản 2, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang giấy đăng ký xe.",
+      "target": "Có, bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu điều khiển xe máy không mang giấy đăng ký xe."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chớp vàng trên xe ô tô?\nLuật: Điều 20, Khoản 5, Trafic.docx: Đèn chớp vàng được sử dụng trên xe ô tô khi xe đang thực hiện công việc bảo trì hoặc sửa chữa đường bộ.",
+      "target": "Bạn được sử dụng đèn chớp vàng trên xe ô tô khi xe đang thực hiện công việc bảo trì hoặc sửa chữa đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực không có đèn đường vào ban đêm bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi đi qua khu vực không có đèn đường vào ban đêm.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực không có đèn đường vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình nhà hàng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình nhà hàng là biển chỉ dẫn, báo hiệu khu vực có nhà hàng gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình nhà hàng báo hiệu khu vực có nhà hàng gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 18 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 18 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 18 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không mang giấy đăng ký xe bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 4, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe ô tô không mang giấy đăng ký xe.",
+      "target": "Bạn sẽ bị phạt từ 2 đến 3 triệu đồng nếu điều khiển xe ô tô không mang giấy đăng ký xe."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường cong liên tiếp có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường cong liên tiếp là biển báo nguy hiểm, cảnh báo đoạn đường có nhiều khúc cua liên tiếp.",
+      "target": "Biển báo hình tam giác với hình đường cong liên tiếp cảnh báo đoạn đường có nhiều khúc cua liên tiếp."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có đèn báo phanh bên trái không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn báo phanh bên trái.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn báo phanh bên trái."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực công viên?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực công viên từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu vực công viên từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực không có đèn đường vào ban đêm bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực không có đèn đường vào ban đêm.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực không có đèn đường vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với hình xe đạp có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với hình xe đạp là biển hiệu lệnh, yêu cầu nhường đường cho xe đạp.",
+      "target": "Biển báo hình tròn màu xanh với hình xe đạp yêu cầu bạn nhường đường cho xe đạp."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 16 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 16 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 16 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không mang giấy chứng nhận kiểm định kỹ thuật bị phạt bao nhiêu?\nLuật: Điều 17, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang giấy chứng nhận kiểm định kỹ thuật.",
+      "target": "Bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu điều khiển xe máy không mang giấy chứng nhận kiểm định kỹ thuật."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình khách sạn có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình khách sạn là biển chỉ dẫn, báo hiệu khu vực có khách sạn gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình khách sạn báo hiệu khu vực có khách sạn gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi vào vòng xuyến không?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn báo rẽ khi vào vòng xuyến.",
+      "target": "Có, bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi vào vòng xuyến."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có đèn đường?\nLuật: Điều 20, Khoản 3, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có đèn đường nếu điều kiện thời tiết xấu làm hạn chế tầm nhìn.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có đèn đường nếu điều kiện thời tiết xấu làm hạn chế tầm nhìn."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy vượt xe khác ở khu vực có biển cấm vượt, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô vượt xe ở khu vực có biển cấm vượt.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy vượt xe ở khu vực có biển cấm vượt."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình người đi bộ băng qua có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình người đi bộ băng qua là biển báo nguy hiểm, cảnh báo khu vực có người đi bộ qua đường.",
+      "target": "Biển báo hình tam giác với hình người đi bộ băng qua cảnh báo khu vực có người đi bộ qua đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn chiếu sáng màu đỏ trên xe máy không?\nLuật: Điều 20, Khoản 5, Trafic.docx: Không được sử dụng đèn chiếu sáng màu đỏ trên xe máy, trừ trường hợp xe ưu tiên.",
+      "target": "Không, bạn không được sử dụng đèn chiếu sáng màu đỏ trên xe máy, trừ trường hợp xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay phải chỉ xuống đất, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay phải chỉ xuống đất, phương tiện phía trước phải giảm tốc độ và dừng lại.",
+      "target": "Bạn phải giảm tốc độ và dừng xe nếu ở phía trước cảnh sát giao thông khi họ giơ tay phải chỉ xuống đất."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô vượt xe ở khu vực có biển cấm vượt bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô vượt xe ở khu vực có biển cấm vượt.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô vượt xe ở khu vực có biển cấm vượt."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe buýt bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe buýt bị gạch chéo là biển cấm, cấm xe buýt đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe buýt bị gạch chéo cấm xe buýt đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không đội mũ bảo hiểm không?\nLuật: Điều 7, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không đội mũ bảo hiểm.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không đội mũ bảo hiểm."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có công trường xây dựng?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có công trường xây dựng nếu tầm nhìn bị hạn chế.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có công trường xây dựng nếu tầm nhìn bị hạn chế."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy dừng xe trên cầu vượt bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô dừng xe trên cầu vượt.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy dừng xe trên cầu vượt."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình máy bay có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình máy bay là biển báo nguy hiểm, cảnh báo khu vực có máy bay bay thấp.",
+      "target": "Biển báo hình tam giác với hình máy bay cảnh báo khu vực có máy bay bay thấp."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 6 giờ đến 20 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đ ỗ xe từ 6 giờ đến 20 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 6 giờ đến 20 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô dừng xe trên cầu vượt bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô dừng xe trên cầu vượt.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô dừng xe trên cầu vượt."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay trái chỉ xuống đất, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay trái chỉ xuống đất, phương tiện phía trước phải giảm tốc độ và dừng lại.",
+      "target": "Bạn phải giảm tốc độ và dừng xe nếu ở phía trước cảnh sát giao thông khi họ giơ tay trái chỉ xuống đất."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có gương chiếu hậu bên trái bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có gương chiếu hậu bên trái.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có gương chiếu hậu bên trái."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình cây xăng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình cây xăng là biển chỉ dẫn, báo hiệu khu vực có trạm xăng gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình cây xăng báo hiệu khu vực có trạm xăng gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không đội dây an toàn không?\nLuật: Điều 6, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không đội dây an toàn.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không đội dây an toàn."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển cấm sử dụng còi?\nLuật: Điều 19, Khoản 2, Trafic.docx: Không được sử dụng còi xe trong khu vực có biển cấm sử dụng còi, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn chỉ được sử dụng còi xe trong khu vực có biển cấm sử dụng còi nếu xe là xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không nhường đường cho xe ưu tiên bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không nhường đường cho xe ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không nhường đường cho xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường giao nhau với đường ưu tiên có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường giao nhau với đường ưu tiên là biển báo nguy hiểm, cảnh báo phải nhường đường cho xe trên đường ưu tiên.",
+      "target": "Biển báo hình tam giác với hình đường giao nhau với đường ưu tiên cảnh báo bạn phải nhường đường cho xe trên đường ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 7 giờ đến 19 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 7 giờ đến 19 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 7 giờ đến 19 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không nhường đường cho xe ưu tiên bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không nhường đường cho xe ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không nhường đường cho xe ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình số 50 bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình số 50 bị gạch chéo là biển cấm, cấm xe chạy quá tốc độ 50 km/h.",
+      "target": "Biển báo hình tròn màu đỏ với hình số 50 bị gạch chéo cấm xe chạy quá tốc độ 50 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có đèn báo rẽ bên trái không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn báo rẽ bên trái.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn báo rẽ bên trái."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có gió mạnh?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có gió mạnh nếu tầm nhìn bị hạn chế.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có gió mạnh nếu tầm nhìn bị hạn chế."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua hầm đường bộ bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi đi qua hầm đường bộ.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua hầm đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình bãi rửa xe có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình bãi rửa xe là biển chỉ dẫn, báo hiệu khu vực có bãi rửa xe gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình bãi rửa xe báo hiệu khu vực có bãi rửa xe gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 9 giờ đến 17 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 9 giờ đến 17 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 9 giờ đến 17 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua hầm đường bộ bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua hầm đường bộ.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua hầm đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường sụt lún có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường sụt lún là biển báo nguy hiểm, cảnh báo khu vực có nguy cơ sụt lún đường.",
+      "target": "Biển báo hình tam giác với hình đường sụt lún cảnh báo khu vực có nguy cơ sụt lún đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy chở quá số người quy định không?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở quá số người quy định.",
+      "target": "Có, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chở quá số người quy định."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển báo bệnh viện?\nLuật: Điều 19, Khoản 2, Trafic.docx: Không được sử dụng còi xe trong khu vực có biển báo bệnh viện, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn chỉ được sử dụng còi xe trong khu vực có biển báo bệnh viện nếu xe là xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chở quá số người quy định bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô chở quá số người quy định.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô chở quá số người quy định."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với hình số 40 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với hình số 40 là biển hiệu lệnh, yêu cầu tốc độ tối thiểu 40 km/h.",
+      "target": "Biển báo hình tròn màu xanh với hình số 40 yêu cầu bạn lái xe với tốc độ tối thiểu 40 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 8 giờ đến 18 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 8 giờ đến 18 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 8 giờ đến 18 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn báo rẽ khi vào ngã tư bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn báo rẽ khi vào ngã tư.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không sử dụng đèn báo rẽ khi vào ngã tư."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình khu cắm trại có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình khu cắm trại là biển chỉ dẫn, báo hiệu khu vực có khu cắm trại gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình khu cắm trại báo hiệu khu vực có khu cắm trại gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có đèn hậu hoạt động không?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có đèn hậu hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có đèn hậu hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có máy bay bay thấp?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có máy bay bay thấp nếu tầm nhìn bị hạn chế.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có máy bay bay thấp nếu tầm nhìn bị hạn chế."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy không giảm tốc độ tại khu vực đông dân cư, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không giảm tốc độ tại khu vực đông dân cư.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không giảm tốc độ tại khu vực đông dân cư."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình trẻ em qua đường có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình trẻ em qua đường là biển báo nguy hiểm, cảnh báo khu vực có trẻ em qua đường.",
+      "target": "Biển báo hình tam giác với hình trẻ em qua đường cảnh báo khu vực có trẻ em qua đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn chiếu sáng màu tím trên xe ô tô không?\nLuật: Điều 20, Khoản 5, Trafic.docx: Không được sử dụng đèn chiếu sáng màu tím trên xe ô tô, trừ trường hợp xe ưu tiên có quy định đặc biệt.",
+      "target": "Không, bạn không được sử dụng đèn chiếu sáng màu tím trên xe ô tô, trừ trường hợp xe ưu tiên có quy định đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ cả hai tay ngang, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ cả hai tay ngang, tất cả các phương tiện từ mọi hướng phải dừng lại.",
+      "target": "Bạn phải dừng xe từ mọi hướng khi cảnh sát giao thông giơ cả hai tay ngang."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không giảm tốc độ tại khu vực đông dân cư bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không giảm tốc độ tại khu vực đông dân cư.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không giảm tốc độ tại khu vực đông dân cư."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe kéo bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe kéo bị gạch chéo là biển cấm, cấm xe kéo đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe kéo bị gạch chéo cấm xe kéo đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có đèn chiếu sáng phía trước không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn chiếu sáng phía trước.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn chiếu sáng phía trước."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có trẻ em qua đường?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có trẻ em qua đường nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có trẻ em qua đường nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy dừng xe trong hầm đường bộ bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô dừng xe trong hầm đường bộ.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy dừng xe trong hầm đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường trơn trượt có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường trơn trượt là biển báo nguy hiểm, cảnh báo khu vực có đường trơn trượt.",
+      "target": "Biển báo hình tam giác với hình đường trơn trượt cảnh báo khu vực có đường trơn trượt."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 7 giờ đến 18 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 7 giờ đến 18 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đ ỗ xe từ 7 giờ đến 18 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô dừng xe trong hầm đường bộ bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô dừng xe trong hầm đường bộ.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô dừng xe trong hầm đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông đứng giơ một tay thẳng đứng, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ một tay thẳng đứng, tất cả các phương tiện từ mọi hướng phải dừng lại.",
+      "target": "Bạn phải dừng xe từ mọi hướng khi cảnh sát giao thông giơ một tay thẳng đứng."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có hệ thống còi hoạt động bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có hệ thống còi hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có hệ thống còi hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình khu vực nghỉ ngơi có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình khu vực nghỉ ngơi là biển chỉ dẫn, báo hiệu khu vực có nơi nghỉ ngơi gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình khu vực nghỉ ngơi báo hiệu khu vực có nơi nghỉ ngơi gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có hệ thống còi hoạt động không?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có hệ thống còi hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có hệ thống còi hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển báo trường học?\nLuật: Điều 19, Khoản 2, Trafic.docx: Không được sử dụng còi xe trong khu vực có biển báo trường học, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn chỉ được sử dụng còi xe trong khu vực có biển báo trường học nếu xe là xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn báo rẽ khi rẽ trái bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn báo rẽ khi rẽ trái.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không sử dụng đèn báo rẽ khi rẽ trái."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường có sỏi đá có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường có sỏi đá là biển báo nguy hiểm, cảnh báo khu vực có đường phủ sỏi đá gây trơn trượt.",
+      "target": "Biển báo hình tam giác với hình đường có sỏi đá cảnh báo khu vực có đường phủ sỏi đá gây trơn trượt."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 6 giờ đến 19 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 6 giờ đến 19 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 6 giờ đến 19 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn báo rẽ khi rẽ trái bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn báo rẽ khi rẽ trái.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi rẽ trái."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình số 80 bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình số 80 bị gạch chéo là biển cấm, cấm xe chạy quá tốc độ 80 km/h.",
+      "target": "Biển báo hình tròn màu đỏ với hình số 80 bị gạch chéo cấm xe chạy quá tốc độ 80 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không đội mũ bảo hiểm cho hành khách không?\nLuật: Điều 7, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không đội mũ bảo hiểm cho hành khách.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không đội mũ bảo hiểm cho hành khách."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có sỏi đá?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có sỏi đá nếu tầm nhìn bị hạn chế.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có sỏi đá nếu tầm nhìn bị hạn chế."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không nhường đường cho xe cứu hỏa đang có tín hiệu ưu tiên bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không nhường đường cho xe cứu hỏa đang có tín hiệu ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không nhường đường cho xe cứu hỏa đang có tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình khu vực du lịch có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình khu vực du lịch là biển chỉ dẫn, báo hiệu khu vực có điểm du lịch gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình khu vực du lịch báo hiệu khu vực có điểm du lịch gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 9 giờ đến 16 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 9 giờ đến 16 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 9 giờ đến 16 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không nhường đường cho xe cứu hỏa đang có tín hiệu ưu tiên bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không nhường đường cho xe cứu hỏa đang có tín hiệu ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không nhường đường cho xe cứu hỏa đang có tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường hẹp dần về hai phía có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường hẹp dần về hai phía là biển báo nguy hiểm, cảnh báo đoạn đường thu hẹp từ cả hai phía.",
+      "target": "Biển báo hình tam giác với hình đường hẹp dần về hai phía cảnh báo đoạn đường thu hẹp từ cả hai phía."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không sử dụng đèn báo rẽ khi rẽ phải không?\nLuật: Điều 7, Khoản 3, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn báo rẽ khi rẽ phải.",
+      "target": "Có, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không sử dụng đèn báo rẽ khi rẽ phải."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển báo công viên?\nLuật: Điều 19, Khoản 2, Trafic.docx: Không được sử dụng còi xe trong khu vực có biển báo công viên, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn chỉ được sử dụng còi xe trong khu vực có biển báo công viên nếu xe là xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn báo rẽ khi rẽ phải bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn báo rẽ khi rẽ phải.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi rẽ phải."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với hình số 60 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với hình số 60 là biển hiệu lệnh, yêu cầu tốc độ tối thiểu 60 km/h.",
+      "target": "Biển báo hình tròn màu xanh với hình số 60 yêu cầu bạn lái xe với tốc độ tối thiểu 60 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 19 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 19 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 19 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường trơn trượt bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường trơn trượt.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường trơn trượt."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình khu vực cắm trại có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình khu vực cắm trại là biển chỉ dẫn, báo hiệu khu vực có khu cắm trại gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình khu vực cắm trại báo hiệu khu vực có khu cắm trại gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không mang giấy chứng nhận kiểm định kỹ thuật không?\nLuật: Điều 17, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe ô tô không mang giấy chứng nhận kiểm định kỹ thuật.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe ô tô không mang giấy chứng nhận kiểm định kỹ thuật."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo trẻ em qua đường?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có biển báo trẻ em qua đường nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo trẻ em qua đường nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy vượt đèn đỏ tại ngã tư, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô vượt đèn đỏ.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy vượt đèn đỏ tại ngã tư."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường sắt cắt ngang có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường sắt cắt ngang là biển báo nguy hiểm, cảnh báo khu vực có đường sắt giao cắt với đường bộ.",
+      "target": "Biển báo hình tam giác với hình đường sắt cắt ngang cảnh báo khu vực có đường sắt giao cắt với đường bộ."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn chớp xanh trên xe máy không?\nLuật: Điều 20, Khoản 5, Trafic.docx: Không được sử dụng đèn chớp xanh trên xe máy, trừ trường hợp xe ưu tiên như xe cảnh sát.",
+      "target": "Không, bạn không được sử dụng đèn chớp xanh trên xe máy, trừ trường hợp xe ưu tiên như xe cảnh sát."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông quay mặt về phía tôi và giơ tay thẳng, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông quay mặt về phía phương tiện và giơ tay thẳng, phương tiện đó phải dừng lại.",
+      "target": "Bạn phải dừng xe nếu cảnh sát giao thông quay mặt về phía bạn và giơ tay thẳng."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô vượt đèn đỏ tại ngã tư bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô vượt đèn đỏ.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô vượt đèn đỏ tại ngã tư."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe container bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe container bị gạch chéo là biển cấm, cấm xe container đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe container bị gạch chéo cấm xe container đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không mang giấy chứng nhận đăng ký xe không?\nLuật: Điều 17, Khoản 2, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không mang giấy chứng nhận đăng ký xe.",
+      "target": "Có, bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu điều khiển xe máy không mang giấy chứng nhận đăng ký xe."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có đường sắt cắt ngang?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có đường sắt cắt ngang nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có đường sắt cắt ngang nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy dừng xe trên đường cao tốc bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 6, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe mô tô dừng xe trên đường cao tốc.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe máy dừng xe trên đường cao tốc."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường dốc đứng có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường dốc đứng là biển báo nguy hiểm, cảnh báo khu vực có đường dốc đứng phía trước.",
+      "target": "Biển báo hình tam giác với hình đường dốc đứng cảnh báo khu vực có đường dốc đứng phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 10 giờ đến 16 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 10 giờ đến 16 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 10 giờ đến 16 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô dừng xe trên đường cao tốc bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 6, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe ô tô dừng xe trên đường cao tốc.",
+      "target": "Bạn sẽ bị phạt từ 6 đến 8 triệu đồng nếu điều khiển xe ô tô dừng xe trên đường cao tốc."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay phải vẫy lên xuống, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay phải vẫy lên xuống, phương tiện phía trước phải giảm tốc độ.",
+      "target": "Bạn phải giảm tốc độ nếu ở phía trước cảnh sát giao thông khi họ giơ tay phải vẫy lên xuống."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có đèn hậu hoạt động bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn hậu hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn hậu hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình trạm kiểm tra xe có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình trạm kiểm tra xe là biển chỉ dẫn, báo hiệu khu vực có trạm kiểm tra xe gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình trạm kiểm tra xe báo hiệu khu vực có trạm kiểm tra xe gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không mang giấy chứng nhận đăng ký xe không?\nLuật: Điều 17, Khoản 4, Điểm a, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe ô tô không mang giấy chứng nhận đăng ký xe.",
+      "target": "Có, bạn sẽ bị phạt từ 2 đến 3 triệu đồng nếu điều khiển xe ô tô không mang giấy chứng nhận đăng ký xe."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển báo khu dân cư?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực có biển báo khu dân cư từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu vực có biển báo khu dân cư từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không nhường đường cho xe cứu thương đang có tín hiệu ưu tiên bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không nhường đường cho xe cứu thương đang có tín hiệu ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không nhường đường cho xe cứu thương đang có tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường có ổ gà có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường có ổ gà là biển báo nguy hiểm, cảnh báo khu vực có đường bị ổ gà gây nguy hiểm.",
+      "target": "Biển báo hình tam giác với hình đường có ổ gà cảnh báo khu vực có đường bị ổ gà gây nguy hiểm."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 8 giờ đến 17 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 8 giờ đến 17 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 8 giờ đến 17 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không nhường đường cho xe cứu thương đang có tín hiệu ưu tiên bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không nhường đường cho xe cứu thương đang có tín hiệu ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không nhường đường cho xe cứu thương đang có tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình số 30 bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình số 30 bị gạch chéo là biển cấm, cấm xe chạy quá tốc độ 30 km/h.",
+      "target": "Biển báo hình tròn màu đỏ với hình số 30 bị gạch chéo cấm xe chạy quá tốc độ 30 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có hệ thống giảm thanh không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có hệ thống giảm thanh.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có hệ thống giảm thanh."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có ổ gà?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có ổ gà nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có ổ gà nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn báo rẽ khi chuyển hướng tại vòng xuyến bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn báo rẽ khi chuyển hướng tại vòng xuyến.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không sử dụng đèn báo rẽ khi chuyển hướng tại vòng xuyến."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình trạm sửa xe máy có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình trạm sửa xe máy là biển chỉ dẫn, báo hiệu khu vực có trạm sửa xe máy gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình trạm sửa xe máy báo hiệu khu vực có trạm sửa xe máy gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ từ 7 giờ đến 20 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ từ 7 giờ đến 20 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đ ỗ từ 7 giờ đến 20 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển hướng tại vòng xuyến bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm e, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển hướng tại vòng xuyến.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn báo rẽ khi chuyển hướng tại vòng xuyến."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường hẹp dần về phía bên trái có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường hẹp dần về phía bên trái là biển báo nguy hiểm, cảnh báo đoạn đường thu hẹp về phía bên trái.",
+      "target": "Biển báo hình tam giác với hình đường hẹp dần về phía bên trái cảnh báo đoạn đường thu hẹp về phía bên trái."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có đèn báo phanh hoạt động không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có đèn báo phanh hoạt động.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có đèn báo phanh hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển báo chợ đêm?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực có biển báo chợ đêm từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu vực có biển báo chợ đêm từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không có hệ thống giảm thanh hoạt động bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có hệ thống giảm thanh hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có hệ thống giảm thanh hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với hình số 50 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với hình số 50 là biển hiệu lệnh, yêu cầu tốc độ tối thiểu 50 km/h.",
+      "target": "Biển báo hình tròn màu xanh với hình số 50 yêu cầu bạn lái xe với tốc độ tối thiểu 50 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 20 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 20 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 20 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường dốc đứng bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường dốc đứng.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường dốc đứng."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình trạm cứu hộ giao thông có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình trạm cứu hộ giao thông là biển chỉ dẫn, báo hiệu khu vực có trạm cứu hộ giao thông gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình trạm cứu hộ giao thông báo hiệu khu vực có trạm cứu hộ giao thông gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô chở hàng không được chằng buộc an toàn không?\nLuật: Điều 6, Khoản 4, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô chở hàng không được chằng buộc an toàn.",
+      "target": "Có, bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô chở hàng không được chằng buộc an toàn."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo đường sắt cắt ngang?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có biển báo đường sắt cắt ngang nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo đường sắt cắt ngang nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Nếu tôi điều khiển xe máy chạy quá tốc độ quy định trong khu dân cư, mức phạt là bao nhiêu?\nLuật: Điều 7, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chạy quá tốc độ quy định trong khu dân cư.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chạy quá tốc độ quy định trong khu dân cư."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình động vật băng qua có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình động vật băng qua là biển báo nguy hiểm, cảnh báo khu vực có động vật băng qua đường.",
+      "target": "Biển báo hình tam giác với hình động vật băng qua cảnh báo khu vực có động vật băng qua đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép sử dụng đèn chớp tím trên xe ô tô không?\nLuật: Điều 20, Khoản 5, Trafic.docx: Không được sử dụng đèn chớp tím trên xe ô tô, trừ trường hợp xe ưu tiên có quy định đặc biệt.",
+      "target": "Không, bạn không được sử dụng đèn chớp tím trên xe ô tô, trừ trường hợp xe ưu tiên có quy định đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông giơ tay trái vẫy lên xuống, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông giơ tay trái vẫy lên xuống, phương tiện phía trước phải giảm tốc độ.",
+      "target": "Bạn phải giảm tốc độ nếu ở phía trước cảnh sát giao thông khi họ giơ tay trái vẫy lên xuống."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chạy quá tốc độ quy định trong khu dân cư bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô chạy quá tốc độ quy định trong khu dân cư.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô chạy quá tốc độ quy định trong khu dân cư."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe ba gác bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe ba gác bị gạch chéo là biển cấm, cấm xe ba gác đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe ba gác bị gạch chéo cấm xe ba gác đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có giấy chứng nhận kiểm định an toàn kỹ thuật không?\nLuật: Điều 17, Khoản 2, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe mô tô không có giấy chứng nhận kiểm định an toàn kỹ thuật.",
+      "target": "Có, bạn sẽ bị phạt từ 300.000 đến 400.000 đồng nếu điều khiển xe máy không có giấy chứng nhận kiểm định an toàn kỹ thuật."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có động vật băng qua?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có động vật băng qua nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có động vật băng qua nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi ngược chiều trên đường một chiều bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô đi ngược chiều trên đường một chiều.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy đi ngược chiều trên đường một chiều."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường cong nguy hiểm có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường cong nguy hiểm là biển báo nguy hiểm, cảnh báo khu vực có đường cong nguy hiểm phía trước.",
+      "target": "Biển báo hình tam giác với hình đường cong nguy hiểm cảnh báo khu vực có đường cong nguy hiểm phía trước."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 9 giờ đến 18 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 9 giờ đến 18 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 9 giờ đến 18 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô đi ngược chiều trên đường một chiều bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô đi ngược chiều trên đường một chiều.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô đi ngược chiều trên đường một chiều."
+    },
+    {
+      "input": "Câu hỏi: Khi gặp tín hiệu cảnh sát giao thông đứng quay lưng về phía tôi và giơ tay thẳng, tôi phải làm gì?\nLuật: Điều 12, Khoản 3, Trafic.docx: Khi cảnh sát giao thông đứng quay lưng về phía phương tiện và giơ tay thẳng, phương tiện đó được phép đi tiếp.",
+      "target": "Bạn được phép đi tiếp nếu cảnh sát giao thông đứng quay lưng về phía bạn và giơ tay thẳng."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không có hệ thống đèn báo rẽ hoạt động bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có hệ thống đèn báo rẽ hoạt động.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có hệ thống đèn báo rẽ hoạt động."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình trạm y tế có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình trạm y tế là biển chỉ dẫn, báo hiệu khu vực có trạm y tế gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình trạm y tế báo hiệu khu vực có trạm y tế gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có giấy chứng nhận kiểm định an toàn kỹ thuật không?\nLuật: Điều 17, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe ô tô không có giấy chứng nhận kiểm định an toàn kỹ thuật.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe ô tô không có giấy chứng nhận kiểm định an toàn kỹ thuật."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển báo khu công nghiệp?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực có biển báo khu công nghiệp từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu vực có biển báo khu công nghiệp từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường cong nguy hiểm bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường cong nguy hiểm.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường cong nguy hiểm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường có vật cản có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường có vật cản là biển báo nguy hiểm, cảnh báo khu vực có vật cản trên đường.",
+      "target": "Biển báo hình tam giác với hình đường có vật cản cảnh báo khu vực có vật cản trên đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 7 giờ đến 18 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 7 giờ đến 18 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 7 giờ đến 18 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường cong nguy hiểm bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 3, Điểm g, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường cong nguy hiểm.",
+      "target": "Bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo đường cong nguy hiểm."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe máy bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe máy bị gạch chéo là biển cấm, cấm xe máy đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe máy bị gạch chéo cấm xe máy đi vào."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy chở hàng hóa vượt quá chiều dài quy định không?\nLuật: Điều 7, Khoản 3, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô chở hàng hóa vượt quá chiều dài quy định.",
+      "target": "Có, bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy chở hàng hóa vượt quá chiều dài quy định."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có vật cản trên đường?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có vật cản trên đường nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có vật cản trên đường nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không nhường đường cho xe cảnh sát đang có tín hiệu ưu tiên bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô không nhường đường cho xe cảnh sát đang có tín hiệu ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy không nhường đường cho xe cảnh sát đang có tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình khu vực đỗ xe có thu phí có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình khu vực đỗ xe có thu phí là biển chỉ dẫn, báo hiệu khu vực có bãi đỗ xe thu phí gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình khu vực đỗ xe có thu phí báo hiệu khu vực có bãi đỗ xe thu phí gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 20 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đ ỗ xe từ 8 giờ đến 20 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đ ỗ xe trên đoạn đường có biển cấm đỗ xe từ 8 giờ đến 20 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô không nhường đường cho xe cảnh sát đang có tín hiệu ưu tiên bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm b, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô không nhường đường cho xe cảnh sát đang có tín hiệu ưu tiên.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô không nhường đường cho xe cảnh sát đang có tín hiệu ưu tiên."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường có gió ngang có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường có gió ngang là biển báo nguy hiểm, cảnh báo khu vực có gió ngang mạnh.",
+      "target": "Biển báo hình tam giác với hình đường có gió ngang cảnh báo khu vực có gió ngang mạnh."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe máy không có hệ thống phanh dự phòng không?\nLuật: Điều 7, Khoản 2, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không có hệ thống phanh dự phòng.",
+      "target": "Có, bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không có hệ thống phanh dự phòng."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng còi xe trong khu vực có biển báo khu du lịch?\nLuật: Điều 19, Khoản 2, Trafic.docx: Còi xe được sử dụng trong khu vực có biển báo khu du lịch từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt.",
+      "target": "Bạn được sử dụng còi xe trong khu vực có biển báo khu du lịch từ 5 giờ sáng đến 22 giờ, trừ trường hợp xe ưu tiên có tín hiệu đặc biệt."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô chở hàng hóa vượt quá chiều dài tối đa cho phép bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 5, Điểm c, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe ô tô chở hàng hóa vượt quá chiều dài tối đa cho phép.",
+      "target": "Bạn sẽ bị phạt từ 4 đến 6 triệu đồng nếu điều khiển xe ô tô chở hàng hóa vượt quá chiều dài tối đa cho phép."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu xanh với hình số 70 có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu xanh với hình số 70 là biển hiệu lệnh, yêu cầu tốc độ tối thiểu 70 km/h.",
+      "target": "Biển báo hình tròn màu xanh với hình số 70 yêu cầu bạn lái xe với tốc độ tối thiểu 70 km/h."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 19 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 19 giờ trong khung giờ này.",
+      "target": "Không, bạn không được dừng xe trên đoạn đường có biển cấm dừng từ 6 giờ đến 19 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo gió ngang mạnh bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 2, Điểm i, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe mô tô không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo gió ngang mạnh.",
+      "target": "Bạn sẽ bị phạt từ 400.000 đến 600.000 đồng nếu điều khiển xe máy không sử dụng đèn chiếu sáng khi đi qua khu vực có biển báo gió ngang mạnh."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình vuông màu xanh với hình trạm cảnh sát giao thông có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình vuông màu xanh với hình trạm cảnh sát giao thông là biển chỉ dẫn, báo hiệu khu vực có trạm cảnh sát giao thông gần đó.",
+      "target": "Biển báo hình vuông màu xanh với hình trạm cảnh sát giao thông báo hiệu khu vực có trạm cảnh sát giao thông gần đó."
+    },
+    {
+      "input": "Câu hỏi: Tôi có bị phạt nếu điều khiển xe ô tô không có hệ thống phanh dự phòng không?\nLuật: Điều 6, Khoản 3, Điểm h, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô không có hệ thống phanh dự phòng.",
+      "target": "Có, bạn sẽ bị phạt từ 800.000 đến 1 triệu đồng nếu điều khiển xe ô tô không có hệ thống phanh dự phòng."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo gió ngang mạnh?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có biển báo gió ngang mạnh nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo gió ngang mạnh nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe máy đi vào làn đường dành riêng cho xe buýt bị phạt bao nhiêu?\nLuật: Điều 7, Khoản 4, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô đi vào làn đường dành riêng cho xe buýt.",
+      "target": "Bạn sẽ bị phạt từ 600.000 đến 1 triệu đồng nếu điều khiển xe máy đi vào làn đường dành riêng cho xe buýt."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tam giác với hình đường có cây đổ có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tam giác với hình đường có cây đổ là biển báo nguy hiểm, cảnh báo khu vực có nguy cơ cây đổ trên đường.",
+      "target": "Biển báo hình tam giác với hình đường có cây đổ cảnh báo khu vực có nguy cơ cây đổ trên đường."
+    },
+    {
+      "input": "Câu hỏi: Tôi có được phép đỗ xe trên đoạn đường có biển cấm đ ỗ xe từ 10 giờ đến 19 giờ không?\nLuật: Điều 18, Khoản 4, Trafic.docx: Không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 10 giờ đến 19 giờ trong khung giờ này.",
+      "target": "Không, bạn không được đỗ xe trên đoạn đường có biển cấm đỗ xe từ 10 giờ đến 19 giờ trong khung giờ này."
+    },
+    {
+      "input": "Câu hỏi: Điều khiển xe ô tô đi vào làn đường dành riêng cho xe buýt bị phạt bao nhiêu?\nLuật: Điều 6, Khoản 4, Điểm d, Nghị định 168/2024/NĐ-CP: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe ô tô đi vào làn đường dành riêng cho xe buýt.",
+      "target": "Bạn sẽ bị phạt từ 1 đến 2 triệu đồng nếu điều khiển xe ô tô đi vào làn đường dành riêng cho xe buýt."
+    },
+    {
+      "input": "Câu hỏi: Biển báo hình tròn màu đỏ với hình xe ô tô bị gạch chéo có ý nghĩa gì?\nLuật: Điều 11, Khoản 5, Trafic.docx: Biển báo hình tròn màu đỏ với hình xe ô tô bị gạch chéo là biển cấm, cấm xe ô tô đi vào.",
+      "target": "Biển báo hình tròn màu đỏ với hình xe ô tô bị gạch chéo cấm xe ô tô đi vào."
+    },
+    {
+      "input": "Câu hỏi: Khi nào tôi được phép sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo cây đổ nguy hiểm?\nLuật: Điều 20, Khoản 4, Trafic.docx: Đèn chiếu sáng được sử dụng khi lái xe qua khu vực có biển báo cây đổ nguy hiểm nếu tầm nhìn bị hạn chế hoặc vào ban đêm.",
+      "target": "Bạn được sử dụng đèn chiếu sáng khi lái xe qua khu vực có biển báo cây đổ nguy hiểm nếu tầm nhìn bị hạn chế hoặc vào ban đêm."
+    }
+]

@@ -1,0 +1,11 @@
+# Ignore model weights
+models/
+*.pt
+*.bin
+*.ckpt
+
+# Virtual environment
+venv/
+
+# Data Scripts
+scripts/data/
