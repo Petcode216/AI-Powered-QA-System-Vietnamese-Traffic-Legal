@@ -1,3 +1,4 @@
+# 🚦 AI-powered Question Answering for Vietnamese Traffic Law Consultation
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?logo=pytorch)  
@@ -6,8 +7,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 ![Status](https://img.shields.io/badge/Status-Research--Capstone-success)  
 
-
-# 🚦 AI-powered Question Answering for Vietnamese Traffic Law Consultation
 
 This project develops an **AI-powered chatbot** that provides **legal consultation on Vietnamese traffic laws** using advanced Natural Language Processing (NLP).  
 It integrates **PhoBERT** for legal text retrieval and **viT5** for natural answer generation, forming a **two-stage Question Answering (QA) pipeline**.  
