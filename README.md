@@ -118,11 +118,13 @@ Challenges include:
 ## 📥 Pretrained Models  
 All pretrained weights are hosted on [Hugging Face Hub](https://huggingface.co/your-username/AI-POWERED-QA-SYSTEM-VIETNAMESE-TRAFFIC-LEGAL).
 The repo contains:
+```bash
 retrieval/
 ├── phobert-168/ → Trained on Nghị định 168/2024/NĐ-CP (fine-related queries)
 └── phobert-atgt/ → Trained on Luật Giao thông Đường bộ (general traffic queries)
 generation/
 └── vit5-finetuned/ → Vietnamese T5 for answer generation
+```
 
 ---
 ⚠️ Limitations
